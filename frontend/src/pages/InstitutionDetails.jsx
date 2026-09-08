@@ -18,6 +18,8 @@ import {
   GitBranch 
 } from 'lucide-react';
 
+const API_BASE_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '');
+
 export default function InstitutionDetails({ 
   institutionId, 
   problemData, 
@@ -33,7 +35,7 @@ export default function InstitutionDetails({
       try {
         setLoading(true);
         // Call live POST endpoint with problem context so LLM generates university-specific resolution plan
-        const res = await fetch(`/api/institutions/${institutionId}`, {
+        const res = await fetch(`${API_BASE_URL}/api/institutions/${institutionId}`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
