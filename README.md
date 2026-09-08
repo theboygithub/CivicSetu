@@ -60,9 +60,10 @@ backend/.env
 
 You will see:
 ```env
-PORT=5000
+PORT=5001
 OPENROUTER_API_KEY=
 OPENROUTER_MODEL=anthropic/claude-3.5-sonnet
+FRONTEND_URL=http://localhost:3000
 ```
 
 - **Without API Key**: The system automatically uses an intelligent domain-aware mock analysis engine that reproduces the exact hackathon prompt examples (e.g. handpump -> NIT Jamshedpur 94%, BIT Mesra 88%).
@@ -78,7 +79,7 @@ cd backend
 npm install
 node server.js
 ```
-The backend starts at `http://localhost:5000`.
+The backend starts at `http://localhost:5001` for this project.
 
 ### 2. Start the Frontend App:
 ```bash
@@ -87,6 +88,25 @@ npm install
 npm run dev
 ```
 The React frontend starts at `http://localhost:3000` (or `http://localhost:5173`).
+
+### Production deployment
+
+Set these environment variables in your hosting providers instead of committing `.env` files:
+
+Backend:
+```env
+PORT=<provided-by-host>
+OPENROUTER_API_KEY=<rotated-openrouter-key>
+OPENROUTER_MODEL=google/gemini-3.5-flash-lite
+FRONTEND_URL=https://your-frontend-domain.com
+```
+
+Frontend:
+```env
+VITE_API_URL=https://your-backend-domain.com
+```
+
+Build the frontend with `npm run build` and deploy the generated `frontend/dist` directory. The frontend API URL must point to the deployed backend origin without a trailing slash.
 
 ---
 

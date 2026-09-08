@@ -9,10 +9,11 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
+const FRONTEND_URL = process.env.FRONTEND_URL?.trim();
 
 // Enable CORS for frontend
 app.use(cors({
-  origin: '*',
+  origin: FRONTEND_URL || '*',
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS']
 }));
 

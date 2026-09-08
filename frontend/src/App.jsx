@@ -9,6 +9,8 @@ import AIAnalysis from './pages/AIAnalysis';
 import InstitutionResults from './pages/InstitutionResults';
 import InstitutionDetails from './pages/InstitutionDetails';
 
+const API_BASE_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '');
+
 export default function App() {
   const [currentScreen, setCurrentScreen] = useState('home'); // home | report | analysis | results | details
   
@@ -64,7 +66,7 @@ export default function App() {
   const handleAnalyze = async () => {
     try {
       setIsAnalyzing(true);
-      const res = await fetch('/api/analyze', {
+      const res = await fetch(`${API_BASE_URL}/api/analyze`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -88,7 +90,7 @@ export default function App() {
       }
     } catch (err) {
       console.error("Analysis network error:", err);
-      alert("Could not connect to backend server. Make sure the backend is running on port 5000.");
+      alert("Could not connect to the backend server. Check the deployment API URL and try again.");
     } finally {
       setIsAnalyzing(false);
     }
@@ -100,7 +102,7 @@ export default function App() {
 
     try {
       setIsMatching(true);
-      const res = await fetch('/api/institutions/match', {
+      const res = await fetch(`${API_BASE_URL}/api/institutions/match`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

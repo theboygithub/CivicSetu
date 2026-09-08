@@ -119,22 +119,37 @@ export default function ReportProblem({
   };
 
   const handleDetectLocation = () => {
-    if (navigator.geolocation) {
-      setFormData(prev => ({ ...prev, location: "Detecting GPS location..." }));
-      navigator.geolocation.getCurrentPosition(
-        (position) => {
-          setFormData(prev => ({ 
-            ...prev, 
-            location: `Jamshedpur, Jharkhand (GPS: ${position.coords.latitude.toFixed(2)}, ${position.coords.longitude.toFixed(2)})`
-          }));
-        },
-        () => {
-          setFormData(prev => ({ ...prev, location: "Jamshedpur, Jharkhand" }));
-        }
-      );
-    } else {
-      setFormData(prev => ({ ...prev, location: "Jamshedpur, Jharkhand" }));
+    const previousLocation = formData.location;
+
+    if (!navigator.geolocation) {
+      setErrorMsg("GPS is not available in this browser. Please enter the location manually.");
+      return;
     }
+
+    setErrorMsg("");
+    setFormData(prev => ({ ...prev, location: "Detecting GPS location..." }));
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        setFormData(prev => ({
+          ...prev,
+          location: `GPS coordinates: ${position.coords.latitude.toFixed(6)}, ${position.coords.longitude.toFixed(6)}`
+        }));
+      },
+      (error) => {
+        const messages = {
+          1: "Location permission was denied. Allow location access in your browser and try again.",
+          2: "Your location could not be determined. Check your device location settings and try again.",
+          3: "GPS detection timed out. Try again or enter the location manually."
+        };
+        setFormData(prev => ({ ...prev, location: previousLocation }));
+        setErrorMsg(messages[error.code] || "GPS detection failed. Please enter the location manually.");
+      },
+      {
+        enableHighAccuracy: true,
+        timeout: 10000,
+        maximumAge: 0
+      }
+    );
   };
 
   const handleSubmit = (e) => {
