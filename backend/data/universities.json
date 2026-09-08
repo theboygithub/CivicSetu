@@ -1,0 +1,5940 @@
+[
+  {
+    "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior",
+    "location": "Gwalior, Madhya Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Physics"
+    ],
+    "expertise": [
+      "Robotics",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Internet of Things",
+      "Wireless Communication",
+      "Energy Storage"
+    ],
+    "researchAreas": [
+      "Wireless Communication",
+      "Energy Storage"
+    ],
+    "activeLabs": [
+      "Updates Research Centre",
+      "TIIC) Major Labs Generic Lab",
+      "Generic Lab",
+      "Lab Robotics Lab IOS Lab",
+      "Virtual Lab",
+      "National Chemical Laboratory"
+    ],
+    "nirfRank": 96,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiitm.ac.in",
+    "contactEmail": "wim@iiitm.ac.in",
+    "researchCenters": [
+      "Updates Research Centre",
+      "TIIC) Major Labs Generic Lab",
+      "Generic Lab",
+      "Lab Robotics Lab IOS Lab",
+      "Virtual Lab",
+      "National Chemical Laboratory"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiitm.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iiitm.ac.in/",
+      "https://www.iiitm.ac.in/learning-resource-centre",
+      "https://www.iiitm.ac.in/ordinances-policies",
+      "https://www.iiitm.ac.in/technology-innovation-and-incubation-centre-tiic",
+      "https://www.iiitm.ac.in/sponsored-projects",
+      "https://www.iiitm.ac.in/health-centre"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiitm.ac.in"
+      ],
+      "type": [
+        "https://www.iiitm.ac.in"
+      ],
+      "departments": [
+        "https://www.iiitm.ac.in",
+        "https://www.iiitm.ac.in/",
+        "https://www.iiitm.ac.in/sponsored-projects"
+      ],
+      "expertise": [
+        "https://www.iiitm.ac.in/learning-resource-centre",
+        "https://www.iiitm.ac.in/technology-innovation-and-incubation-centre-tiic",
+        "https://www.iiitm.ac.in/sponsored-projects"
+      ],
+      "researchAreas": [
+        "https://www.iiitm.ac.in/technology-innovation-and-incubation-centre-tiic",
+        "https://www.iiitm.ac.in/sponsored-projects"
+      ],
+      "activeLabs": [
+        "https://www.iiitm.ac.in/learning-resource-centre",
+        "https://www.iiitm.ac.in/technology-innovation-and-incubation-centre-tiic"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Defence Institute of Advanced Technology",
+    "location": "Pune, Maharashtra",
+    "departments": [
+      "Aerospace Engineering",
+      "Electronics Engineering",
+      "Mechanical Engineering",
+      "Computer Science",
+      "Materials Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Data Science"
+    ],
+    "expertise": [
+      "Defence Technology",
+      "Aerospace Engineering",
+      "Robotics",
+      "Artificial Intelligence",
+      "Data Science"
+    ],
+    "researchAreas": [
+      "Defence Technology",
+      "Aerospace Systems",
+      "Autonomous Systems"
+    ],
+    "activeLabs": [],
+    "nirfRank": 92,
+    "nirfCategory": "Engineering",
+    "type": "Deemed University",
+    "portalUrl": "https://diat.ac.in",
+    "contactEmail": "ro@diat.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://diat.ac.in",
+      "https://diat.ac.in/",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://diat.ac.in/departments-schools/",
+      "https://diat.ac.in/course-details-academic-calendar/",
+      "https://diat.ac.in/research/",
+      "https://diat.ac.in/sponsored-projects/",
+      "https://diat.ac.in/contact-us/",
+      "https://diat.ac.in/conferences-and-seminars/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://diat.ac.in"
+      ],
+      "type": [
+        "https://diat.ac.in"
+      ],
+      "departments": [
+        "https://diat.ac.in",
+        "https://diat.ac.in/",
+        "https://diat.ac.in/sponsored-projects/"
+      ],
+      "expertise": [
+        "https://diat.ac.in/",
+        "https://diat.ac.in/sponsored-projects/"
+      ],
+      "researchAreas": [
+        "https://diat.ac.in/",
+        "https://diat.ac.in/sponsored-projects/"
+      ],
+      "activeLabs": [
+        "https://diat.ac.in/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Dr. B R Ambedkar National Institute of Technology Jalandhar",
+    "location": "Jalandhar, Punjab",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 55,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.nitj.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.nitj.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.nitj.ac.in/",
+      "https://www.nitj.ac.in/today/",
+      "https://www.nitj.ac.in/template/index.html",
+      "https://www.nitj.ac.in/admissions/index.html",
+      "https://www.nitj.ac.in/admin/Achievements.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.nitj.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.nitj.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Association for the Cultivation of Science",
+    "location": "Kolkata, West Bengal",
+    "departments": [
+      "Chemical Sciences",
+      "Physical Sciences",
+      "Biological Sciences"
+    ],
+    "expertise": [
+      "Materials Science",
+      "Chemical Sciences",
+      "Biological Sciences"
+    ],
+    "researchAreas": [
+      "Materials Science",
+      "Chemical Sciences"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Autonomous Institute",
+    "portalUrl": "https://www.iacs.res.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iacs.res.in",
+      "https://www.iacs.res.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iacs.res.in"
+      ],
+      "type": [
+        "https://www.iacs.res.in"
+      ],
+      "departments": [
+        "https://www.iacs.res.in"
+      ],
+      "expertise": [
+        "https://www.iacs.res.in/"
+      ],
+      "researchAreas": [
+        "https://www.iacs.res.in/"
+      ],
+      "activeLabs": [
+        "https://www.iacs.res.in/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "location": "Howrah, West Bengal",
+    "departments": [
+      "Computer Science and Technology",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 54,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiests.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiests.ac.in",
+      "https://www.iiests.ac.in/",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iiests.ac.in/en",
+      "https://www.iiests.ac.in/en/primemin",
+      "https://www.iiests.ac.in/en/gallery",
+      "https://www.iiests.ac.in/en/institutehistory",
+      "https://www.iiests.ac.in/en/missionvision"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiests.ac.in"
+      ],
+      "type": [
+        "https://www.iiests.ac.in"
+      ],
+      "departments": [
+        "https://www.iiests.ac.in"
+      ],
+      "expertise": [
+        "https://www.iiests.ac.in/"
+      ],
+      "researchAreas": [
+        "https://www.iiests.ac.in/"
+      ],
+      "activeLabs": [
+        "https://www.iiests.ac.in/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Agartala",
+    "location": "Agartala, Tripura",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Mathematics"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitagartala.ac.in",
+    "contactEmail": "director.office@iiitagartala.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitagartala.ac.in",
+      "https://iiitagartala.ac.in/",
+      "https://iiitagartala.ac.in/login",
+      "https://iiitagartala.ac.in/contact",
+      "https://iiitagartala.ac.in/academic-ordinance",
+      "https://iiitagartala.ac.in/board-members",
+      "https://iiitagartala.ac.in/team-members"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitagartala.ac.in"
+      ],
+      "type": [
+        "https://iiitagartala.ac.in"
+      ],
+      "departments": [
+        "https://iiitagartala.ac.in",
+        "https://iiitagartala.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Allahabad",
+    "location": "Prayagraj, Uttar Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Data Science",
+      "Mathematics",
+      "Physics",
+      "Computer Science"
+    ],
+    "expertise": [
+      "Robotics"
+    ],
+    "researchAreas": [],
+    "activeLabs": [
+      "R&I) Research Research Area Research Lab",
+      "IPR NewGen IEDC Lab",
+      "Rules Lab"
+    ],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiita.ac.in",
+    "contactEmail": null,
+    "researchCenters": [
+      "R&I) Research Research Area Research Lab",
+      "IPR NewGen IEDC Lab",
+      "Rules Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiita.ac.in",
+      "https://www.iiita.ac.in/",
+      "https://www.iiita.ac.in/statutes-ordinances",
+      "https://www.iiita.ac.in/academic-ordinances",
+      "https://www.iiita.ac.in/board-governors",
+      "https://www.iiita.ac.in/research-council",
+      "https://www.iiita.ac.in/heads-department",
+      "https://www.iiita.ac.in/departments-"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiita.ac.in"
+      ],
+      "type": [
+        "https://www.iiita.ac.in"
+      ],
+      "departments": [
+        "https://www.iiita.ac.in",
+        "https://www.iiita.ac.in/",
+        "https://www.iiita.ac.in/board-governors"
+      ],
+      "expertise": [
+        "https://www.iiita.ac.in/statutes-ordinances"
+      ],
+      "researchAreas": [],
+      "activeLabs": [
+        "https://www.iiita.ac.in/statutes-ordinances"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Bhagalpur",
+    "location": "Bhagalpur, Bihar",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Data Science"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitbh.ac.in",
+    "contactEmail": "pro@iiitbh.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitbh.ac.in",
+      "https://iiitbh.ac.in/",
+      "https://iiitbh.ac.in/board-governors-0",
+      "https://iiitbh.ac.in/acadmic-affairs",
+      "https://iiitbh.ac.in/sites/default/files/2025/Academic_Calendar/index.html",
+      "https://iiitbh.ac.in/academic-form",
+      "https://iiitbh.ac.in/faculty"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitbh.ac.in"
+      ],
+      "type": [
+        "https://iiitbh.ac.in"
+      ],
+      "departments": [
+        "https://iiitbh.ac.in",
+        "https://iiitbh.ac.in/",
+        "https://iiitbh.ac.in/acadmic-affairs",
+        "https://iiitbh.ac.in/academic-form",
+        "https://iiitbh.ac.in/faculty"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Bhopal",
+    "location": "Bhopal, Madhya Pradesh",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitbhopal.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitbhopal.ac.in",
+      "https://iiitbhopal.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitbhopal.ac.in"
+      ],
+      "type": [
+        "https://iiitbhopal.ac.in"
+      ],
+      "departments": [
+        "https://iiitbhopal.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Design and Manufacturing Jabalpur",
+    "location": "Jabalpur, Madhya Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Chemistry",
+      "Data Science"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiitdmj.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiitdmj.ac.in",
+      "https://www.iiitdmj.ac.in/",
+      "https://www.iiitdmj.ac.in/administration/bog.php",
+      "https://www.iiitdmj.ac.in/academics/programme.php",
+      "https://www.iiitdmj.ac.in/academics/Integrated%20PhD.php",
+      "https://www.iiitdmj.ac.in/academics/Special%20Part%20Time.php",
+      "https://www.iiitdmj.ac.in/academics/PhD-under-Visvesvaraya-Scheme.php"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiitdmj.ac.in"
+      ],
+      "type": [
+        "https://www.iiitdmj.ac.in"
+      ],
+      "departments": [
+        "https://www.iiitdmj.ac.in",
+        "https://www.iiitdmj.ac.in/",
+        "https://www.iiitdmj.ac.in/academics/programme.php"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Design and Manufacturing Kancheepuram",
+    "location": "Chennai, Tamil Nadu",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering",
+      "Biotechnology",
+      "Physics",
+      "Chemistry",
+      "Electrical Engineering",
+      "Civil Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiitdm.ac.in",
+    "contactEmail": "office@iiitdm.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiitdm.ac.in",
+      "https://www.iiitdm.ac.in/",
+      "https://www.iiitdm.ac.in/institute/about",
+      "https://www.iiitdm.ac.in/institute/board-of-governors",
+      "https://www.iiitdm.ac.in/institute/senate",
+      "https://www.iiitdm.ac.in/institute/finance-committee",
+      "https://www.iiitdm.ac.in/institute/buildings-and-work-committee",
+      "https://www.iiitdm.ac.in/institute/reports-and-accounts"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiitdm.ac.in"
+      ],
+      "type": [
+        "https://www.iiitdm.ac.in"
+      ],
+      "departments": [
+        "https://www.iiitdm.ac.in",
+        "https://www.iiitdm.ac.in/",
+        "https://www.iiitdm.ac.in/institute/senate",
+        "https://www.iiitdm.ac.in/institute/buildings-and-work-committee"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Design and Manufacturing Kurnool",
+    "location": "Kurnool, Andhra Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering",
+      "Mathematics",
+      "Physics",
+      "Data Science"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Data Science",
+      "Machine Learning",
+      "Robotics",
+      "Embedded Systems",
+      "Signal Processing",
+      "Wireless Communication"
+    ],
+    "researchAreas": [
+      "Signal Processing",
+      "Wireless Communication"
+    ],
+    "activeLabs": [
+      "Infrastructure Highlights Dedicated Lab"
+    ],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitk.ac.in",
+    "contactEmail": "office@iiitk.ac.in",
+    "researchCenters": [
+      "Infrastructure Highlights Dedicated Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitk.ac.in",
+      "https://iiitk.ac.in/",
+      "https://iiitk.ac.in/Board-of-Governors/page",
+      "https://iiitk.ac.in/academic-administration/page",
+      "https://iiitk.ac.in/Academics/Mechanical-Engineering/page",
+      "https://iiitk.ac.in/Department-of-Sciences/page",
+      "https://iiitk.ac.in/Undergraduate/page",
+      "https://iiitk.ac.in/Postgraduate/page"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitk.ac.in"
+      ],
+      "type": [
+        "https://iiitk.ac.in"
+      ],
+      "departments": [
+        "https://iiitk.ac.in",
+        "https://iiitk.ac.in/",
+        "https://iiitk.ac.in/Undergraduate/page"
+      ],
+      "expertise": [
+        "https://iiitk.ac.in/Undergraduate/page",
+        "https://iiitk.ac.in/Postgraduate/page"
+      ],
+      "researchAreas": [
+        "https://iiitk.ac.in/Postgraduate/page"
+      ],
+      "activeLabs": [
+        "https://iiitk.ac.in/Undergraduate/page"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Dharwad",
+    "location": "Dharwad, Karnataka",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitdwd.ac.in",
+    "contactEmail": "info@iiitdwd.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitdwd.ac.in",
+      "https://iiitdwd.ac.in/",
+      "https://iiitdwd.ac.in/academics/nirf/",
+      "https://iiitdwd.ac.in/gallery/",
+      "https://iiitdwd.ac.in/student-life/overview/",
+      "https://iiitdwd.ac.in/academics/research/",
+      "https://iiitdwd.ac.in/academics/programmes/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitdwd.ac.in"
+      ],
+      "type": [
+        "https://iiitdwd.ac.in"
+      ],
+      "departments": [
+        "https://iiitdwd.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Guwahati",
+    "location": "Guwahati, Assam",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Mathematics",
+      "Biotechnology"
+    ],
+    "expertise": [
+      "Machine Learning",
+      "Computer Vision",
+      "Remote Sensing",
+      "Biotechnology",
+      "Quantum Computing",
+      "Signal Processing",
+      "Wireless Communication"
+    ],
+    "researchAreas": [
+      "Quantum Computing",
+      "Remote Sensing",
+      "Signal Processing",
+      "Wireless Communication"
+    ],
+    "activeLabs": [
+      "Portable Telepathology Lab"
+    ],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiitg.ac.in",
+    "contactEmail": "registrar@iiitg.ac.in",
+    "researchCenters": [
+      "Portable Telepathology Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiitg.ac.in",
+      "https://www.iiitg.ac.in/",
+      "https://www.iiitg.ac.in/contact-us",
+      "https://www.iiitg.ac.in/academic",
+      "https://www.iiitg.ac.in/department",
+      "https://www.iiitg.ac.in/facilities",
+      "https://www.iiitg.ac.in/research",
+      "https://www.iiitg.ac.in/research-1"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiitg.ac.in"
+      ],
+      "type": [
+        "https://www.iiitg.ac.in"
+      ],
+      "departments": [
+        "https://www.iiitg.ac.in",
+        "https://www.iiitg.ac.in/",
+        "https://www.iiitg.ac.in/research-1"
+      ],
+      "expertise": [
+        "https://www.iiitg.ac.in/research-1"
+      ],
+      "researchAreas": [
+        "https://www.iiitg.ac.in/research-1"
+      ],
+      "activeLabs": [
+        "https://www.iiitg.ac.in/research-1"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Kalyani",
+    "location": "Kalyani, West Bengal",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Data Science"
+    ],
+    "expertise": [
+      "Data Science"
+    ],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitkalyani.ac.in",
+    "contactEmail": "office@iiitkalyani.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitkalyani.ac.in",
+      "https://iiitkalyani.ac.in/",
+      "https://iiitkalyani.ac.in/all-facilities",
+      "https://iiitkalyani.ac.in/board-of-governors",
+      "https://iiitkalyani.ac.in/api/serve/2026/02/16/Office_Order-96_RTI__1__1771217899_b7a0af1d.pdf",
+      "https://iiitkalyani.ac.in/academics",
+      "https://iiitkalyani.ac.in/academic-calendar",
+      "https://iiitkalyani.ac.in/research"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitkalyani.ac.in"
+      ],
+      "type": [
+        "https://iiitkalyani.ac.in"
+      ],
+      "departments": [
+        "https://iiitkalyani.ac.in",
+        "https://iiitkalyani.ac.in/"
+      ],
+      "expertise": [
+        "https://iiitkalyani.ac.in/board-of-governors"
+      ],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Kota",
+    "location": "Kota, Rajasthan",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitkota.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitkota.ac.in",
+      "https://iiitkota.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitkota.ac.in"
+      ],
+      "type": [
+        "https://iiitkota.ac.in"
+      ],
+      "departments": [
+        "https://iiitkota.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Kottayam",
+    "location": "Kottayam, Kerala",
+    "departments": [
+      "Computer Science and Engineering",
+      "Data Science",
+      "Mathematics"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiitkottayam.ac.in",
+    "contactEmail": "gayathri@iiitkottayam.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiitkottayam.ac.in",
+      "https://www.iiitkottayam.ac.in/",
+      "https://www.iiitkottayam.ac.in/data/pdf/CHORDS%2025%20Flyer.pdf",
+      "https://www.iiitkottayam.ac.in/data/pdf/Grievance%20Redressal%20Committee.pdf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiitkottayam.ac.in"
+      ],
+      "type": [
+        "https://www.iiitkottayam.ac.in"
+      ],
+      "departments": [
+        "https://www.iiitkottayam.ac.in",
+        "https://www.iiitkottayam.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Lucknow",
+    "location": "Lucknow, Uttar Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Data Science",
+      "Mathematics"
+    ],
+    "expertise": [
+      "Data Science",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Internet of Things",
+      "Quantum Computing",
+      "Wireless Communication"
+    ],
+    "researchAreas": [
+      "Quantum Computing",
+      "Wireless Communication"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitl.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitl.ac.in",
+      "https://iiitl.ac.in/",
+      "https://iiitl.ac.in/index.php/sgrc/",
+      "https://iiitl.ac.in/index.php/academic-calendar/",
+      "https://iiitl.ac.in/index.php/scholarships-offered/",
+      "https://iiitl.ac.in/index.php/wardens/",
+      "https://iiitl.ac.in/index.php/research-scholars/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitl.ac.in"
+      ],
+      "type": [
+        "https://iiitl.ac.in"
+      ],
+      "departments": [
+        "https://iiitl.ac.in",
+        "https://iiitl.ac.in/",
+        "https://iiitl.ac.in/index.php/research-scholars/"
+      ],
+      "expertise": [
+        "https://iiitl.ac.in/index.php/scholarships-offered/",
+        "https://iiitl.ac.in/index.php/research-scholars/"
+      ],
+      "researchAreas": [
+        "https://iiitl.ac.in/index.php/research-scholars/"
+      ],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Manipur",
+    "location": "Imphal, Manipur",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Mathematics",
+      "Physics",
+      "Mechanical Engineering",
+      "Data Science"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitmanipur.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitmanipur.ac.in",
+      "https://iiitmanipur.ac.in/",
+      "https://iiitmanipur.ac.in/pages/about/bog.php",
+      "https://iiitmanipur.ac.in/pages/about/bos.php",
+      "https://iiitmanipur.ac.in/pages/about/facilities.php",
+      "https://iiitmanipur.ac.in/pages/academic/admission.php",
+      "https://iiitmanipur.ac.in/pages/academic/2022.06.admission.phd.php"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitmanipur.ac.in"
+      ],
+      "type": [
+        "https://iiitmanipur.ac.in"
+      ],
+      "departments": [
+        "https://iiitmanipur.ac.in",
+        "https://iiitmanipur.ac.in/",
+        "https://iiitmanipur.ac.in/pages/about/bog.php",
+        "https://iiitmanipur.ac.in/pages/academic/admission.php"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitn.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitn.ac.in"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitn.ac.in"
+      ],
+      "type": [
+        "https://iiitn.ac.in"
+      ],
+      "departments": [
+        "https://iiitn.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Pune",
+    "location": "Pune, Maharashtra",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiitp.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiitp.ac.in",
+      "https://www.iiitp.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiitp.ac.in"
+      ],
+      "type": [
+        "https://www.iiitp.ac.in"
+      ],
+      "departments": [
+        "https://www.iiitp.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Raichur",
+    "location": "Raichur, Karnataka",
+    "departments": [
+      "Computer Science and Engineering",
+      "Data Science",
+      "Computer Science",
+      "Mathematics"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitr.ac.in",
+    "contactEmail": "info@iiitr.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitr.ac.in",
+      "https://iiitr.ac.in/",
+      "https://iiitr.ac.in/contact",
+      "https://iiitr.ac.in/about",
+      "https://iiitr.ac.in/reports",
+      "https://iiitr.ac.in/faculty",
+      "https://iiitr.ac.in/admission",
+      "https://iiitr.ac.in/curriculum"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitr.ac.in"
+      ],
+      "type": [
+        "https://iiitr.ac.in"
+      ],
+      "departments": [
+        "https://iiitr.ac.in",
+        "https://iiitr.ac.in/",
+        "https://iiitr.ac.in/about"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Ranchi",
+    "location": "Ranchi, Jharkhand",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Data Science",
+      "Mathematics"
+    ],
+    "expertise": [
+      "Machine Learning",
+      "Embedded Systems",
+      "Data Science"
+    ],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitranchi.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitranchi.ac.in",
+      "https://iiitranchi.ac.in/",
+      "https://iiitranchi.ac.in/director_Desk.aspx",
+      "https://iiitranchi.ac.in/facilities.aspx",
+      "https://iiitranchi.ac.in/Academic_Ordinance.aspx",
+      "https://iiitranchi.ac.in/docs/rti/3rd_gb.pdf",
+      "https://iiitranchi.ac.in/docs/rti/dsir.pdf",
+      "https://iiitranchi.ac.in/docs/bog.pdf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitranchi.ac.in"
+      ],
+      "type": [
+        "https://iiitranchi.ac.in"
+      ],
+      "departments": [
+        "https://iiitranchi.ac.in",
+        "https://iiitranchi.ac.in/"
+      ],
+      "expertise": [
+        "https://iiitranchi.ac.in/director_Desk.aspx"
+      ],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Sonepat",
+    "location": "Sonipat, Haryana",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitsonepat.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitsonepat.ac.in",
+      "https://iiitsonepat.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitsonepat.ac.in"
+      ],
+      "type": [
+        "https://iiitsonepat.ac.in"
+      ],
+      "departments": [
+        "https://iiitsonepat.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Sri City",
+    "location": "Sri City, Andhra Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Data Science"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Robotics",
+      "Internet of Things",
+      "Cyber Security",
+      "Data Science",
+      "Wireless Communication"
+    ],
+    "researchAreas": [
+      "Autonomous Systems",
+      "Bioinformatics",
+      "Wireless Communication"
+    ],
+    "activeLabs": [
+      "Teacher Virtual Lab",
+      "Faculty Alumni Students Research Workshop Research Center",
+      "Intelligence Human-Computer Interaction Lab",
+      "Computer Vision Lab Aerial Robotics Lab",
+      "MS PhD RESEARCH Faculty Profile Research Center"
+    ],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiits.ac.in",
+    "contactEmail": "contact@iiits.in",
+    "researchCenters": [
+      "Teacher Virtual Lab",
+      "Faculty Alumni Students Research Workshop Research Center",
+      "Intelligence Human-Computer Interaction Lab",
+      "Computer Vision Lab Aerial Robotics Lab",
+      "MS PhD RESEARCH Faculty Profile Research Center"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiits.ac.in",
+      "https://iiits.ac.in/",
+      "https://iiits.ac.in/contact-us/",
+      "https://iiits.ac.in/home/partners/government-of-andhra-pradesh/",
+      "https://iiits.ac.in/home/governance/board-of-governors/",
+      "https://iiits.ac.in/home/governance/former-directors/",
+      "https://iiits.ac.in/home/administration/academic-administration/",
+      "https://iiits.ac.in/home/administration/research-development/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiits.ac.in"
+      ],
+      "type": [
+        "https://www.iiits.ac.in"
+      ],
+      "departments": [
+        "https://www.iiits.ac.in",
+        "https://iiits.ac.in/"
+      ],
+      "expertise": [
+        "https://iiits.ac.in/home/partners/government-of-andhra-pradesh/"
+      ],
+      "researchAreas": [
+        "https://iiits.ac.in/home/partners/government-of-andhra-pradesh/"
+      ],
+      "activeLabs": [
+        "https://iiits.ac.in/home/partners/government-of-andhra-pradesh/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Surat",
+    "location": "Surat, Gujarat",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitsurat.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitsurat.ac.in"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitsurat.ac.in"
+      ],
+      "type": [
+        "https://iiitsurat.ac.in"
+      ],
+      "departments": [
+        "https://iiitsurat.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Tiruchirappalli",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiitt.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiitt.ac.in"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiitt.ac.in"
+      ],
+      "type": [
+        "https://www.iiitt.ac.in"
+      ],
+      "departments": [
+        "https://www.iiitt.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Una",
+    "location": "Una, Himachal Pradesh",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitu.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitu.ac.in",
+      "https://iiitu.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitu.ac.in"
+      ],
+      "type": [
+        "https://iiitu.ac.in"
+      ],
+      "departments": [
+        "https://iiitu.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Information Technology Vadodara",
+    "location": "Gandhinagar, Gujarat",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Data Science",
+      "Mathematics",
+      "Physics"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iiitvadodara.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iiitvadodara.ac.in",
+      "https://iiitvadodara.ac.in/",
+      "https://iiitvadodara.ac.in/index.php",
+      "https://iiitvadodara.ac.in/IAM2026/index.html",
+      "https://iiitvadodara.ac.in/upload_sk/eduction%20loan%20BOB.jpeg",
+      "https://iiitvadodara.ac.in/news.php"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iiitvadodara.ac.in"
+      ],
+      "type": [
+        "https://iiitvadodara.ac.in"
+      ],
+      "departments": [
+        "https://iiitvadodara.ac.in",
+        "https://iiitvadodara.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Science",
+    "location": "Bengaluru, Karnataka",
+    "departments": [
+      "Computer Science and Automation",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Materials Engineering",
+      "Computer Science",
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Mathematics"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Materials Science",
+      "Sustainable Energy",
+      "Renewable Energy"
+    ],
+    "researchAreas": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Materials Science",
+      "Sustainable Energy",
+      "Climate Change"
+    ],
+    "activeLabs": [
+      "Centre for Nano Science and Engineering",
+      "Centre for Sustainable Technologies",
+      "Laboratory"
+    ],
+    "nirfRank": 1,
+    "nirfCategory": "Engineering",
+    "type": "Deemed University",
+    "portalUrl": "https://iisc.ac.in",
+    "contactEmail": "webadmin@iisc.ac.in",
+    "researchCenters": [
+      "Centre for Nano Science and Engineering",
+      "Centre for Sustainable Technologies",
+      "Laboratory"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iisc.ac.in",
+      "https://iisc.ac.in/research/",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iisc.ac.in/",
+      "https://www.iisc.ac.in/about/foreword-from-the-director/",
+      "https://www.iisc.ac.in/about/administration/board-of-trustees/",
+      "https://www.iisc.ac.in/centres/",
+      "https://www.iisc.ac.in/jrd-tata-memorial-library/",
+      "https://www.iisc.ac.in/tackling-climate-change/",
+      "https://www.iisc.ac.in/institute-awards/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iisc.ac.in"
+      ],
+      "type": [
+        "https://iisc.ac.in"
+      ],
+      "departments": [
+        "https://iisc.ac.in",
+        "https://www.iisc.ac.in/",
+        "https://www.iisc.ac.in/about/foreword-from-the-director/"
+      ],
+      "expertise": [
+        "https://iisc.ac.in/research/",
+        "https://www.iisc.ac.in/about/foreword-from-the-director/"
+      ],
+      "researchAreas": [
+        "https://iisc.ac.in/research/",
+        "https://www.iisc.ac.in/about/foreword-from-the-director/"
+      ],
+      "activeLabs": [
+        "https://iisc.ac.in/research/",
+        "https://www.iisc.ac.in/about/foreword-from-the-director/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Berhampur",
+    "location": "Berhampur, Odisha",
+    "departments": [
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Mathematics",
+      "Computer Science",
+      "Earth and Environmental Sciences"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [
+      "Computer Lab",
+      "The Computer Lab"
+    ],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiserbpr.ac.in",
+    "contactEmail": "official_email@iiserbpr.ac.in",
+    "researchCenters": [
+      "Computer Lab",
+      "The Computer Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiserbpr.ac.in",
+      "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0",
+      "https://www.iiserbpr.ac.in/",
+      "https://www.iiserbpr.ac.in/computer-centre",
+      "https://www.iiserbpr.ac.in/page/view/introduction",
+      "https://www.iiserbpr.ac.in/board-of-governers",
+      "https://www.iiserbpr.ac.in/contact_us",
+      "https://www.iiserbpr.ac.in/office-of-academic-affairs",
+      "https://www.iiserbpr.ac.in/academics-schedule"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiserbpr.ac.in",
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "type": [
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "departments": [
+        "https://www.iiserbpr.ac.in",
+        "https://www.iiserbpr.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [
+        "https://www.iiserbpr.ac.in/computer-centre"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Bhopal",
+    "location": "Bhopal, Madhya Pradesh",
+    "departments": [
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Mathematics",
+      "Computer Science",
+      "Electrical Engineering",
+      "Chemical Engineering",
+      "Data Science",
+      "Earth and Environmental Sciences"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiserb.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiserb.ac.in",
+      "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0",
+      "https://www.iiserb.ac.in/",
+      "https://www.iiserb.ac.in/institute/bog",
+      "https://www.iiserb.ac.in/directory",
+      "https://www.iiserb.ac.in/institute/glance",
+      "https://www.iiserb.ac.in/departments",
+      "https://www.iiserb.ac.in/assets/all_upload/off_academic_affairs/results/CSIR-UGC_PhD_interview_Physics_IISER_Bhopal.pdf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiserb.ac.in",
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "type": [
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "departments": [
+        "https://www.iiserb.ac.in",
+        "https://www.iiserb.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Kolkata",
+    "location": "Kolkata, West Bengal",
+    "departments": [
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Mathematics"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiserkol.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiserkol.ac.in",
+      "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0",
+      "https://www.iiserkol.ac.in/web/",
+      "https://www.iiserkol.ac.in/web/facilities",
+      "https://www.iiserkol.ac.in/web/facilities/hostel",
+      "https://www.iiserkol.ac.in/web/facilities/medical",
+      "https://www.iiserkol.ac.in/web/facilities/library",
+      "https://www.iiserkol.ac.in/web/facilities/guest-house"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiserkol.ac.in",
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "type": [
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "departments": [
+        "https://www.iiserkol.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Mohali",
+    "location": "Mohali, Punjab",
+    "departments": [
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Mathematics"
+    ],
+    "expertise": [
+      "Machine Learning"
+    ],
+    "researchAreas": [
+      "Water Quality"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iisermohali.ac.in",
+    "contactEmail": "dord@iisermohali.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iisermohali.ac.in",
+      "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0",
+      "https://www.iisermohali.ac.in/",
+      "https://www.iisermohali.ac.in/academics",
+      "https://www.iisermohali.ac.in/research",
+      "https://www.iisermohali.ac.in/researchnews/prof-mahak-sharma-spotlights",
+      "https://www.iisermohali.ac.in/researchnews",
+      "https://www.iisermohali.ac.in/researchnews/dr-eswaraiah-chakali-spotlights",
+      "https://www.iisermohali.ac.in/researchnews/dr-shravan-kumar-mishra-spotlights"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iisermohali.ac.in",
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "type": [
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "departments": [
+        "https://www.iisermohali.ac.in"
+      ],
+      "expertise": [
+        "https://www.iisermohali.ac.in/research"
+      ],
+      "researchAreas": [
+        "https://www.iisermohali.ac.in/research"
+      ],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Pune",
+    "location": "Pune, Maharashtra",
+    "departments": [
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Mathematics",
+      "Data Science",
+      "Computer Science"
+    ],
+    "expertise": [
+      "Data Science",
+      "Energy Storage"
+    ],
+    "researchAreas": [
+      "Energy Storage"
+    ],
+    "activeLabs": [
+      "Sciences Mathematics Physics Science Education Research Centre",
+      "Research Centre"
+    ],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiserpune.ac.in",
+    "contactEmail": null,
+    "researchCenters": [
+      "Sciences Mathematics Physics Science Education Research Centre",
+      "Research Centre"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiserpune.ac.in",
+      "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0",
+      "https://www.iiserpune.ac.in/",
+      "https://www.iiserpune.ac.in/research",
+      "https://www.iiserpune.ac.in/institute/about/introduction",
+      "https://www.iiserpune.ac.in/institute/campus",
+      "https://www.iiserpune.ac.in/institute/campus/sports-facilities",
+      "https://www.iiserpune.ac.in/institute/campus/medical-facilities",
+      "https://www.iiserpune.ac.in/institute/campus/guest-house-and-convention-centre"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiserpune.ac.in",
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "type": [
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "departments": [
+        "https://www.iiserpune.ac.in",
+        "https://www.iiserpune.ac.in/",
+        "https://www.iiserpune.ac.in/research"
+      ],
+      "expertise": [
+        "https://www.iiserpune.ac.in/research"
+      ],
+      "researchAreas": [
+        "https://www.iiserpune.ac.in/research"
+      ],
+      "activeLabs": [
+        "https://www.iiserpune.ac.in/research"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Thiruvananthapuram",
+    "location": "Thiruvananthapuram, Kerala",
+    "departments": [
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Mathematics",
+      "Data Science"
+    ],
+    "expertise": [
+      "Data Science"
+    ],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iisertvm.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iisertvm.ac.in",
+      "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0",
+      "https://www.iisertvm.ac.in/",
+      "https://www.iisertvm.ac.in/faculty/former_directors",
+      "https://www.iisertvm.ac.in/pages/facilities",
+      "https://www.iisertvm.ac.in/pages/computing-facilities",
+      "https://www.iisertvm.ac.in/pages/research-highlights",
+      "https://www.iisertvm.ac.in/pages/undergraduate-publications",
+      "https://www.iisertvm.ac.in/openings/active_openings"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iisertvm.ac.in",
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "type": [
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "departments": [
+        "https://www.iisertvm.ac.in",
+        "https://www.iisertvm.ac.in/"
+      ],
+      "expertise": [
+        "https://www.iisertvm.ac.in/faculty/former_directors"
+      ],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Tirupati",
+    "location": "Tirupati, Andhra Pradesh",
+    "departments": [
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Mathematics"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iisertirupati.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iisertirupati.ac.in",
+      "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0",
+      "https://www.iisertirupati.ac.in/",
+      "https://www.iisertirupati.ac.in/board-of-governors/",
+      "https://www.iisertirupati.ac.in/records-retention-schedule/",
+      "https://www.iisertirupati.ac.in/postdoctoral-fellows/",
+      "https://www.iisertirupati.ac.in/pmrf/",
+      "https://www.iisertirupati.ac.in/research/",
+      "https://www.iisertirupati.ac.in/departments/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iisertirupati.ac.in",
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "type": [
+        "https://www.education.gov.in/indian-institute-science-education-and-research-iiser-0"
+      ],
+      "departments": [
+        "https://www.iisertirupati.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Space Science and Technology",
+    "location": "Thiruvananthapuram, Kerala",
+    "departments": [
+      "Aerospace Engineering",
+      "Avionics",
+      "Earth and Space Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ],
+    "expertise": [
+      "Space Science",
+      "Aerospace Engineering",
+      "Avionics",
+      "Robotics",
+      "Remote Sensing"
+    ],
+    "researchAreas": [
+      "Space Science",
+      "Aerospace Systems",
+      "Avionics",
+      "Hydrology",
+      "Remote Sensing"
+    ],
+    "activeLabs": [
+      "Research Facilities Central Facilities Research Lab",
+      "Research Centre",
+      "National Atmospheric Research Laboratory",
+      "Space Physics Laboratory",
+      "Development Laboratory"
+    ],
+    "nirfRank": 61,
+    "nirfCategory": "Engineering",
+    "type": "Deemed University",
+    "portalUrl": "https://www.iist.ac.in",
+    "contactEmail": null,
+    "researchCenters": [
+      "Research Facilities Central Facilities Research Lab",
+      "Research Centre",
+      "National Atmospheric Research Laboratory",
+      "Space Physics Laboratory",
+      "Development Laboratory"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iist.ac.in",
+      "https://www.iist.ac.in/",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iist.ac.in/institute/contact-us",
+      "https://www.iist.ac.in/former-director",
+      "https://www.iist.ac.in/board-management",
+      "https://www.iist.ac.in/academic-council",
+      "https://www.iist.ac.in/research-council",
+      "https://www.iist.ac.in/academic-office"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iist.ac.in"
+      ],
+      "type": [
+        "https://www.iist.ac.in"
+      ],
+      "departments": [
+        "https://www.iist.ac.in",
+        "https://www.iist.ac.in/",
+        "https://www.iist.ac.in/former-director"
+      ],
+      "expertise": [
+        "https://www.iist.ac.in/",
+        "https://www.iist.ac.in/former-director"
+      ],
+      "researchAreas": [
+        "https://www.iist.ac.in/",
+        "https://www.iist.ac.in/former-director"
+      ],
+      "activeLabs": [
+        "https://www.iist.ac.in/",
+        "https://www.iist.ac.in/former-director"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology (Banaras Hindu University) Varanasi",
+    "location": "Varanasi, Uttar Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Physics",
+      "Chemistry",
+      "Biotechnology",
+      "Mathematics",
+      "Environmental Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 10,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitbhu.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitbhu.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitbhu.ac.in/",
+      "https://www.iitbhu.ac.in/search/node",
+      "https://www.iitbhu.ac.in/dept/apd",
+      "https://www.iitbhu.ac.in/dept/cer",
+      "https://www.iitbhu.ac.in/dept/che",
+      "https://www.iitbhu.ac.in/dept/civ",
+      "https://www.iitbhu.ac.in/dept/cse"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitbhu.ac.in"
+      ],
+      "type": [
+        "https://www.iitbhu.ac.in"
+      ],
+      "departments": [
+        "https://www.iitbhu.ac.in",
+        "https://www.iitbhu.ac.in/",
+        "https://www.iitbhu.ac.in/dept/cer",
+        "https://www.iitbhu.ac.in/dept/che",
+        "https://www.iitbhu.ac.in/dept/civ"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+    "location": "Dhanbad, Jharkhand",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 15,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitism.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitism.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitism.ac.in/",
+      "https://www.iitism.ac.in/home",
+      "https://www.iitism.ac.in/institute-video",
+      "https://www.iitism.ac.in/departments",
+      "https://www.iitism.ac.in/research-cluster",
+      "https://www.iitism.ac.in/staff-and-officers",
+      "https://www.iitism.ac.in/dean-iie"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitism.ac.in"
+      ],
+      "type": [
+        "https://www.iitism.ac.in"
+      ],
+      "departments": [
+        "https://www.iitism.ac.in",
+        "https://www.iitism.ac.in/",
+        "https://www.iitism.ac.in/departments"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Bhilai",
+    "location": "Durg, Chhattisgarh",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 72,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitbhilai.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitbhilai.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitbhilai.ac.in"
+      ],
+      "type": [
+        "https://www.iitbhilai.ac.in"
+      ],
+      "departments": [
+        "https://www.iitbhilai.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Bhubaneswar",
+    "location": "Bhubaneswar, Odisha",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Materials Engineering",
+      "Physics",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mathematics",
+      "Chemistry"
+    ],
+    "expertise": [
+      "Cyber Security"
+    ],
+    "researchAreas": [],
+    "activeLabs": [
+      "HPC Research Center"
+    ],
+    "nirfRank": 39,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitbbs.ac.in",
+    "contactEmail": "registrar.office@iitbbs.ac.in",
+    "researchCenters": [
+      "HPC Research Center"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitbbs.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitbbs.ac.in/",
+      "https://www.iitbbs.ac.in/index.php/home/board-of-governors/",
+      "https://www.iitbbs.ac.in/index.php/home/circlulars-orders-polices/",
+      "https://www.iitbbs.ac.in/index.php/home/heads-of-school-associate-heads/",
+      "https://www.iitbbs.ac.in/index.php/home/wardens/",
+      "https://www.iitbbs.ac.in/index.php/home/successive-directors/",
+      "https://www.iitbbs.ac.in/index.php/sponsored-research-industrial-consultancy-sric/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitbbs.ac.in"
+      ],
+      "type": [
+        "https://www.iitbbs.ac.in"
+      ],
+      "departments": [
+        "https://www.iitbbs.ac.in",
+        "https://www.iitbbs.ac.in/",
+        "https://www.iitbbs.ac.in/index.php/home/heads-of-school-associate-heads/"
+      ],
+      "expertise": [
+        "https://www.iitbbs.ac.in/index.php/home/board-of-governors/"
+      ],
+      "researchAreas": [],
+      "activeLabs": [
+        "https://www.iitbbs.ac.in/index.php/home/board-of-governors/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "location": "Mumbai, Maharashtra",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Aerospace Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [
+      "Materials Science",
+      "Aerospace Engineering"
+    ],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 3,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitb.ac.in",
+    "contactEmail": "jeeadv@iitb.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitb.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitb.ac.in/",
+      "https://www.iitb.ac.in/faculty-staff/awards-honours",
+      "https://www.iitb.ac.in/contact-us",
+      "https://www.iitb.ac.in/about",
+      "https://www.iitb.ac.in/industry/research-development",
+      "https://www.iitb.ac.in/breaking-news/iaf-and-iit-bombay-sign-moa-advance-flight-test-education-and-research",
+      "https://www.iitb.ac.in/breaking-news/iit-bombay-holds-its-64th-convocation-and-departmental-degree-award-function-ddaf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitb.ac.in"
+      ],
+      "type": [
+        "https://www.iitb.ac.in"
+      ],
+      "departments": [
+        "https://www.iitb.ac.in",
+        "https://www.iitb.ac.in/faculty-staff/awards-honours"
+      ],
+      "expertise": [
+        "https://www.iitb.ac.in/faculty-staff/awards-honours"
+      ],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "location": "New Delhi, Delhi",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Biotechnology",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Environmental Engineering"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Materials Science",
+      "Biotechnology",
+      "Environmental Engineering",
+      "Energy Storage"
+    ],
+    "researchAreas": [
+      "Climate Change",
+      "Energy Storage"
+    ],
+    "activeLabs": [
+      "TRIPP) SMITA Research Lab"
+    ],
+    "nirfRank": 2,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://home.iitd.ac.in",
+    "contactEmail": null,
+    "researchCenters": [
+      "TRIPP) SMITA Research Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://home.iitd.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://home.iitd.ac.in/",
+      "https://home.iitd.ac.in/icollect/epay/index.php",
+      "https://home.iitd.ac.in/index.php",
+      "https://home.iitd.ac.in/departments.php",
+      "https://home.iitd.ac.in/centres.php",
+      "https://home.iitd.ac.in/centres-of-excellence.php"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://home.iitd.ac.in"
+      ],
+      "type": [
+        "https://home.iitd.ac.in"
+      ],
+      "departments": [
+        "https://home.iitd.ac.in",
+        "https://home.iitd.ac.in/"
+      ],
+      "expertise": [
+        "https://home.iitd.ac.in/centres.php"
+      ],
+      "researchAreas": [
+        "https://home.iitd.ac.in/centres.php"
+      ],
+      "activeLabs": [
+        "https://home.iitd.ac.in/centres-of-excellence.php"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Dharwad",
+    "location": "Dharwad, Karnataka",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 77,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iitdh.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iitdh.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iitdh.ac.in"
+      ],
+      "type": [
+        "https://iitdh.ac.in"
+      ],
+      "departments": [
+        "https://iitdh.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Gandhinagar",
+    "location": "Gandhinagar, Gujarat",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Materials Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biological Sciences"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 25,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iitgn.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iitgn.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://iitgn.ac.in/",
+      "https://iitgn.ac.in/contact",
+      "https://iitgn.ac.in/medicalcenter",
+      "https://iitgn.ac.in/about/admin-bog",
+      "https://iitgn.ac.in/academics",
+      "https://iitgn.ac.in/departmentlist",
+      "https://iitgn.ac.in/academics/calendar/acadcal-2026-27"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iitgn.ac.in"
+      ],
+      "type": [
+        "https://iitgn.ac.in"
+      ],
+      "departments": [
+        "https://iitgn.ac.in",
+        "https://iitgn.ac.in/academics"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Goa",
+    "location": "Ponda, Goa",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Materials Engineering",
+      "Mathematics",
+      "Chemistry",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Physics"
+    ],
+    "expertise": [
+      "Materials Science"
+    ],
+    "researchAreas": [],
+    "activeLabs": [
+      "Teaching Lab",
+      "D) Research Highlights Research Center",
+      "IT Services Laboratory"
+    ],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iitgoa.ac.in",
+    "contactEmail": null,
+    "researchCenters": [
+      "Teaching Lab",
+      "D) Research Highlights Research Center",
+      "IT Services Laboratory"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iitgoa.ac.in",
+      "https://iitgoa.ac.in/",
+      "https://iitgoa.ac.in/board-of-governors/",
+      "https://iitgoa.ac.in/academics-dean/",
+      "https://iitgoa.ac.in/undergraduate-programmes/",
+      "https://iitgoa.ac.in/postgraduate-programmes/",
+      "https://iitgoa.ac.in/AcademicCurriculum/curriculum.php",
+      "https://iitgoa.ac.in/academic-calendar/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iitgoa.ac.in"
+      ],
+      "type": [
+        "https://iitgoa.ac.in"
+      ],
+      "departments": [
+        "https://iitgoa.ac.in",
+        "https://iitgoa.ac.in/",
+        "https://iitgoa.ac.in/board-of-governors/",
+        "https://iitgoa.ac.in/postgraduate-programmes/"
+      ],
+      "expertise": [
+        "https://iitgoa.ac.in/board-of-governors/"
+      ],
+      "researchAreas": [],
+      "activeLabs": [
+        "https://iitgoa.ac.in/board-of-governors/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Guwahati",
+    "location": "Guwahati, Assam",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Data Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 8,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitg.ac.in",
+    "contactEmail": "alumnioff@iitg.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitg.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitg.ac.in/",
+      "https://www.iitg.ac.in/aer/donation.php",
+      "https://www.iitg.ac.in/index",
+      "https://www.iitg.ac.in/admstr",
+      "https://www.iitg.ac.in/acad/",
+      "https://www.iitg.ac.in/acad/academic_ordinance.php",
+      "https://www.iitg.ac.in/iitg_academic"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitg.ac.in"
+      ],
+      "type": [
+        "https://www.iitg.ac.in"
+      ],
+      "departments": [
+        "https://www.iitg.ac.in",
+        "https://www.iitg.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Chemical Engineering",
+      "Data Science",
+      "Physics",
+      "Electrical Engineering",
+      "Civil Engineering",
+      "Aerospace Engineering",
+      "Biotechnology",
+      "Mathematics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [
+      "Publications Working Papers Research Centre",
+      "EBSB Club Hostel Coordinating Unit Laboratory",
+      "Research Centre",
+      "IITH Visit IITH Search Research Centre"
+    ],
+    "nirfRank": 7,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iith.ac.in",
+    "contactEmail": null,
+    "researchCenters": [
+      "Publications Working Papers Research Centre",
+      "EBSB Club Hostel Coordinating Unit Laboratory",
+      "Research Centre",
+      "IITH Visit IITH Search Research Centre"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iith.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iith.ac.in/",
+      "https://www.iith.ac.in/academics/index.html",
+      "https://www.iith.ac.in/academics/programmes-offered/",
+      "https://www.iith.ac.in/academics/departments/",
+      "https://www.iith.ac.in/academics/calendars-timetables/",
+      "https://www.iith.ac.in/research-centres/",
+      "https://www.iith.ac.in/about/aboutiith/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iith.ac.in"
+      ],
+      "type": [
+        "https://www.iith.ac.in"
+      ],
+      "departments": [
+        "https://www.iith.ac.in",
+        "https://www.iith.ac.in/",
+        "https://www.iith.ac.in/academics/departments/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [
+        "https://www.iith.ac.in/academics/programmes-offered/",
+        "https://www.iith.ac.in/research-centres/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Indore",
+    "location": "Indore, Madhya Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 12,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iiti.ac.in",
+    "contactEmail": "administration@iiti.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiti.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iiti.ac.in/",
+      "https://www.iiti.ac.in/home/emergency_contacts",
+      "https://www.iiti.ac.in/academics",
+      "https://www.iiti.ac.in/administration/bog",
+      "https://www.iiti.ac.in/home/facilities",
+      "https://www.iiti.ac.in/academics/centers",
+      "https://www.iiti.ac.in/uploads/academics/notice_updates/fee_notice_2026_autumn.pdf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiti.ac.in"
+      ],
+      "type": [
+        "https://www.iiti.ac.in"
+      ],
+      "departments": [
+        "https://www.iiti.ac.in",
+        "https://www.iiti.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Jammu",
+    "location": "Jammu, Jammu and Kashmir",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 56,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iitjammu.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iitjammu.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://iitjammu.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iitjammu.ac.in"
+      ],
+      "type": [
+        "https://iitjammu.ac.in"
+      ],
+      "departments": [
+        "https://iitjammu.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Jodhpur",
+    "location": "Jodhpur, Rajasthan",
+    "departments": [
+      "Computer Science and Engineering",
+      "Aerospace Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Materials Engineering",
+      "Data Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Environmental Engineering"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Internet of Things",
+      "Data Science",
+      "Aerospace Engineering",
+      "Environmental Engineering"
+    ],
+    "researchAreas": [],
+    "activeLabs": [
+      "Diagnostic Laboratory",
+      "Research Centre"
+    ],
+    "nirfRank": 27,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iitj.ac.in",
+    "contactEmail": "sweetalert2@11.js",
+    "researchCenters": [
+      "Diagnostic Laboratory",
+      "Research Centre"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iitj.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://iitj.ac.in/",
+      "https://iitj.ac.in/main/en/administrative-contact",
+      "https://iitj.ac.in/m/Index/main-departments",
+      "https://iitj.ac.in/m/Index/main-centers",
+      "https://iitj.ac.in/office-of-academics/en/academics",
+      "https://iitj.ac.in/admission-postgraduate-programs/en/Admission-to-Postgraduate-Programs",
+      "https://iitj.ac.in/health-center/en/health-center"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iitj.ac.in"
+      ],
+      "type": [
+        "https://iitj.ac.in"
+      ],
+      "departments": [
+        "https://iitj.ac.in",
+        "https://iitj.ac.in/",
+        "https://iitj.ac.in/main/en/administrative-contact",
+        "https://iitj.ac.in/admission-postgraduate-programs/en/Admission-to-Postgraduate-Programs"
+      ],
+      "expertise": [
+        "https://iitj.ac.in/admission-postgraduate-programs/en/Admission-to-Postgraduate-Programs"
+      ],
+      "researchAreas": [],
+      "activeLabs": [
+        "https://iitj.ac.in/health-center/en/health-center"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "location": "Kanpur, Uttar Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Aerospace Engineering",
+      "Physics",
+      "Chemistry",
+      "Computer Science",
+      "Electrical Engineering",
+      "Civil Engineering",
+      "Data Science",
+      "Mathematics",
+      "Biological Sciences"
+    ],
+    "expertise": [
+      "Materials Science",
+      "Artificial Intelligence",
+      "Aerospace Engineering"
+    ],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 4,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitk.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitk.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitk.ac.in/",
+      "https://www.iitk.ac.in/academics-at-iit-kanpur",
+      "https://www.iitk.ac.in/doaa/",
+      "https://www.iitk.ac.in/department",
+      "https://www.iitk.ac.in/doaa/academic-calendar",
+      "https://www.iitk.ac.in/research",
+      "https://www.iitk.ac.in/list-of-research-highlights"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitk.ac.in"
+      ],
+      "type": [
+        "https://www.iitk.ac.in"
+      ],
+      "departments": [
+        "https://www.iitk.ac.in",
+        "https://www.iitk.ac.in/",
+        "https://www.iitk.ac.in/doaa/",
+        "https://www.iitk.ac.in/department"
+      ],
+      "expertise": [
+        "https://www.iitk.ac.in/research",
+        "https://www.iitk.ac.in/list-of-research-highlights"
+      ],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Kharagpur",
+    "location": "Kharagpur, West Bengal",
+    "departments": [
+      "Computer Science and Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Aerospace Engineering",
+      "Materials Engineering",
+      "Biotechnology",
+      "Data Science"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 5,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitkgp.ac.in",
+    "contactEmail": "contact.iic@iitkgp.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitkgp.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitkgp.ac.in/",
+      "https://www.iitkgp.ac.in/navpage/academics",
+      "https://www.iitkgp.ac.in/navpage/research",
+      "https://www.iitkgp.ac.in/academic-calendar-ug",
+      "https://www.iitkgp.ac.in/academics-library",
+      "https://www.iitkgp.ac.in/academic-units",
+      "https://www.iitkgp.ac.in/mhrd-initiatives"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitkgp.ac.in"
+      ],
+      "type": [
+        "https://www.iitkgp.ac.in"
+      ],
+      "departments": [
+        "https://www.iitkgp.ac.in",
+        "https://www.iitkgp.ac.in/",
+        "https://www.iitkgp.ac.in/navpage/academics"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Madras",
+    "location": "Chennai, Tamil Nadu",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Aerospace Engineering",
+      "Materials Engineering",
+      "Biotechnology",
+      "Data Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biological Sciences"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Data Science",
+      "Renewable Energy",
+      "Aerospace Engineering",
+      "Biotechnology"
+    ],
+    "researchAreas": [
+      "Autonomous Systems"
+    ],
+    "activeLabs": [
+      "Research Highlights Research Areas National Research Centre",
+      "NTCPWC) Institute Research Centre",
+      "Computational Brain Research Centre",
+      "Railway Research Centre"
+    ],
+    "nirfRank": 1,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitm.ac.in",
+    "contactEmail": null,
+    "researchCenters": [
+      "Research Highlights Research Areas National Research Centre",
+      "NTCPWC) Institute Research Centre",
+      "Computational Brain Research Centre",
+      "Railway Research Centre"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitm.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitm.ac.in/",
+      "https://www.iitm.ac.in/contact",
+      "https://www.iitm.ac.in/the-institute/institute-eminence-centers-excellence",
+      "https://www.iitm.ac.in/academics/overview",
+      "https://www.iitm.ac.in/academics/study-at-iitm/non-campus-bs-programmes",
+      "https://www.iitm.ac.in/academics/study-at-iitm/undergraduate-programmes",
+      "https://www.iitm.ac.in/academics/study-at-iitm/postgraduate-programmes"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitm.ac.in"
+      ],
+      "type": [
+        "https://www.iitm.ac.in"
+      ],
+      "departments": [
+        "https://www.iitm.ac.in",
+        "https://www.iitm.ac.in/",
+        "https://www.iitm.ac.in/academics/study-at-iitm/undergraduate-programmes"
+      ],
+      "expertise": [
+        "https://www.iitm.ac.in/the-institute/institute-eminence-centers-excellence"
+      ],
+      "researchAreas": [
+        "https://www.iitm.ac.in/the-institute/institute-eminence-centers-excellence"
+      ],
+      "activeLabs": [
+        "https://www.iitm.ac.in/the-institute/institute-eminence-centers-excellence"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Mandi",
+    "location": "Mandi, Himachal Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Materials Engineering",
+      "Biotechnology",
+      "Data Science",
+      "Chemistry",
+      "Environmental Engineering",
+      "Physics"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Environmental Engineering"
+    ],
+    "researchAreas": [
+      "Climate Change"
+    ],
+    "activeLabs": [
+      "Health Applications Centre(IKSMHA) Advance Material Research Centre",
+      "IT Helpdesk Classroom Booking PC Lab",
+      "Lal’s Path Lab"
+    ],
+    "nirfRank": 26,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitmandi.ac.in",
+    "contactEmail": "registrar@iitmandi.ac.in",
+    "researchCenters": [
+      "Health Applications Centre(IKSMHA) Advance Material Research Centre",
+      "IT Helpdesk Classroom Booking PC Lab",
+      "Lal’s Path Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitmandi.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://iitmandi.ac.in/",
+      "https://iitmandi.ac.in/ordinances",
+      "https://iitmandi.ac.in/healthcentre/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitmandi.ac.in"
+      ],
+      "type": [
+        "https://www.iitmandi.ac.in"
+      ],
+      "departments": [
+        "https://www.iitmandi.ac.in",
+        "https://iitmandi.ac.in/",
+        "https://iitmandi.ac.in/ordinances"
+      ],
+      "expertise": [
+        "https://iitmandi.ac.in/ordinances"
+      ],
+      "researchAreas": [
+        "https://iitmandi.ac.in/ordinances"
+      ],
+      "activeLabs": [
+        "https://iitmandi.ac.in/ordinances",
+        "https://iitmandi.ac.in/healthcentre/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Palakkad",
+    "location": "Palakkad, Kerala",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Data Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biological Sciences"
+    ],
+    "expertise": [
+      "Data Science"
+    ],
+    "researchAreas": [],
+    "activeLabs": [
+      "Moodle Central Library Central Lab",
+      "Students Central Sections Committees Research Research Centre",
+      "Technology IHub Foundation CSquare Innovation Lab"
+    ],
+    "nirfRank": 64,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iitpkd.ac.in",
+    "contactEmail": "info@iitpkd.ac.in",
+    "researchCenters": [
+      "Moodle Central Library Central Lab",
+      "Students Central Sections Committees Research Research Centre",
+      "Technology IHub Foundation CSquare Innovation Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iitpkd.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://iitpkd.ac.in/",
+      "https://iitpkd.ac.in/dashboard",
+      "https://iitpkd.ac.in/contact-us",
+      "https://iitpkd.ac.in/chairman-board-governors",
+      "https://iitpkd.ac.in/ess",
+      "https://iitpkd.ac.in/research-programs-0",
+      "https://iitpkd.ac.in/academics-downloads"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iitpkd.ac.in"
+      ],
+      "type": [
+        "https://iitpkd.ac.in"
+      ],
+      "departments": [
+        "https://iitpkd.ac.in",
+        "https://iitpkd.ac.in/"
+      ],
+      "expertise": [
+        "https://iitpkd.ac.in/dashboard"
+      ],
+      "researchAreas": [],
+      "activeLabs": [
+        "https://iitpkd.ac.in/dashboard"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Patna",
+    "location": "Patna, Bihar",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Environmental Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 19,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitp.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitp.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitp.ac.in/",
+      "https://www.iitp.ac.in/miscellaneous/rti",
+      "https://www.iitp.ac.in/about",
+      "https://www.iitp.ac.in/contact",
+      "https://www.iitp.ac.in/miscellaneous/sitemap",
+      "https://www.iitp.ac.in/miscellaneous/media-coverage"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitp.ac.in"
+      ],
+      "type": [
+        "https://www.iitp.ac.in"
+      ],
+      "departments": [
+        "https://www.iitp.ac.in",
+        "https://www.iitp.ac.in/about"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Roorkee",
+    "location": "Roorkee, Uttarakhand",
+    "departments": [
+      "Computer Science and Engineering",
+      "Data Science",
+      "Physics",
+      "Environmental Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 6,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitr.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitr.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitr.ac.in/",
+      "https://www.iitr.ac.in/sric/",
+      "https://www.iitr.ac.in/anushruti/index.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitr.ac.in"
+      ],
+      "type": [
+        "https://www.iitr.ac.in"
+      ],
+      "departments": [
+        "https://www.iitr.ac.in",
+        "https://www.iitr.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Ropar",
+    "location": "Rupnagar, Punjab",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 32,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.iitrpr.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iitrpr.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iitrpr.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iitrpr.ac.in"
+      ],
+      "type": [
+        "https://www.iitrpr.ac.in"
+      ],
+      "departments": [
+        "https://www.iitrpr.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Institute of Technology Tirupati",
+    "location": "Tirupati, Andhra Pradesh",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 57,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://iittp.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://iittp.ac.in",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://iittp.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://iittp.ac.in"
+      ],
+      "type": [
+        "https://iittp.ac.in"
+      ],
+      "departments": [
+        "https://iittp.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Indian Statistical Institute",
+    "location": "Kolkata, West Bengal",
+    "departments": [
+      "Computer Science",
+      "Mathematics",
+      "Statistics"
+    ],
+    "expertise": [
+      "Statistics",
+      "Machine Learning",
+      "Computer Science",
+      "Data Science"
+    ],
+    "researchAreas": [
+      "Statistical Modelling",
+      "Machine Learning"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.isical.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.isical.ac.in",
+      "https://www.isical.ac.in/research"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.isical.ac.in"
+      ],
+      "type": [
+        "https://www.isical.ac.in"
+      ],
+      "departments": [
+        "https://www.isical.ac.in"
+      ],
+      "expertise": [
+        "https://www.isical.ac.in/research"
+      ],
+      "researchAreas": [
+        "https://www.isical.ac.in/research"
+      ],
+      "activeLabs": [
+        "https://www.isical.ac.in/research"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "Indraprastha Institute of Information Technology Delhi",
+    "location": "New Delhi, Delhi",
+    "departments": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Computational Biology"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Data Science",
+      "Human-Computer Interaction"
+    ],
+    "researchAreas": [
+      "Machine Learning",
+      "Computer Vision",
+      "Human-Computer Interaction"
+    ],
+    "activeLabs": [],
+    "nirfRank": 63,
+    "nirfCategory": "Engineering",
+    "type": "State University",
+    "portalUrl": "https://www.iiitd.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiitd.ac.in",
+      "https://iiitd.ac.in/research",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiitd.ac.in"
+      ],
+      "type": [
+        "https://www.iiitd.ac.in"
+      ],
+      "departments": [
+        "https://www.iiitd.ac.in"
+      ],
+      "expertise": [
+        "https://iiitd.ac.in/research"
+      ],
+      "researchAreas": [
+        "https://iiitd.ac.in/research"
+      ],
+      "activeLabs": [
+        "https://iiitd.ac.in/research"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Institute of Chemical Technology",
+    "location": "Mumbai, Maharashtra",
+    "departments": [
+      "Chemical Engineering",
+      "Chemical Technology",
+      "Pharmaceutical Sciences"
+    ],
+    "expertise": [
+      "Chemical Engineering",
+      "Polymer Science",
+      "Pharmaceutical Technology",
+      "Energy Engineering"
+    ],
+    "researchAreas": [
+      "Polymer Science",
+      "Pharmaceutical Technology",
+      "Chemical Process Engineering"
+    ],
+    "activeLabs": [],
+    "nirfRank": 41,
+    "nirfCategory": "Engineering",
+    "type": "Deemed University",
+    "portalUrl": "https://ictmumbai.edu.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://ictmumbai.edu.in",
+      "https://ictmumbai.edu.in/",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://ictmumbai.edu.in"
+      ],
+      "type": [
+        "https://ictmumbai.edu.in"
+      ],
+      "departments": [
+        "https://ictmumbai.edu.in"
+      ],
+      "expertise": [
+        "https://ictmumbai.edu.in/"
+      ],
+      "researchAreas": [
+        "https://ictmumbai.edu.in/"
+      ],
+      "activeLabs": [
+        "https://ictmumbai.edu.in/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "International Institute of Information Technology Bangalore",
+    "location": "Bengaluru, Karnataka",
+    "departments": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Computer Science",
+      "Data Science",
+      "Mathematics",
+      "Physics",
+      "Mechanical Engineering"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
+      "Information Technology",
+      "Robotics",
+      "Remote Sensing",
+      "Signal Processing",
+      "Wireless Communication",
+      "Embedded Systems",
+      "Quantum Computing"
+    ],
+    "researchAreas": [
+      "Machine Learning",
+      "Data Science",
+      "Remote Sensing",
+      "Signal Processing",
+      "Wireless Communication",
+      "Electric Vehicles",
+      "Quantum Computing"
+    ],
+    "activeLabs": [
+      "Research Centres E-Health Research Centre",
+      "Assistive Robotics Lab",
+      "AI Lab Graphics-Visualization-Computing-Lab Web Science Lab",
+      "Multimodal Perception Lab",
+      "Analysis Lab",
+      "High Density Electronic Systems Lab",
+      "Communication Lab",
+      "Spatial Computing Lab",
+      "IKS) Lab Smart City Lab",
+      "Ascend Studio Radar Sensing Lab",
+      "CSSMP Advanced Wireless Communications Lab",
+      "Speech Lab"
+    ],
+    "nirfRank": 69,
+    "nirfCategory": "Engineering",
+    "type": "Deemed University",
+    "portalUrl": "https://www.iiitb.ac.in",
+    "contactEmail": "admission-ds@iiitb.ac.in",
+    "researchCenters": [
+      "Research Centres E-Health Research Centre",
+      "Assistive Robotics Lab",
+      "AI Lab Graphics-Visualization-Computing-Lab Web Science Lab",
+      "Multimodal Perception Lab",
+      "Analysis Lab",
+      "High Density Electronic Systems Lab",
+      "Communication Lab",
+      "Spatial Computing Lab",
+      "IKS) Lab Smart City Lab",
+      "Ascend Studio Radar Sensing Lab",
+      "CSSMP Advanced Wireless Communications Lab",
+      "Speech Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiitb.ac.in",
+      "https://www.iiitb.ac.in/research/",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iiitb.ac.in/",
+      "https://www.iiitb.ac.in/centre-for-applied-sciences",
+      "https://www.iiitb.ac.in/academics/research-programmes/master-of-science-by-research",
+      "https://www.iiitb.ac.in/academics/research-programmes/integrated-phd-phd",
+      "https://www.iiitb.ac.in/academics/masters-programmes/pg-diploma-in-digital-product-design-and-management",
+      "https://www.iiitb.ac.in/academics/masters-programmes/msc-digital-society",
+      "https://www.iiitb.ac.in/courses/integrated-phd-phd-master-of-science-by-research"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiitb.ac.in"
+      ],
+      "type": [
+        "https://www.iiitb.ac.in"
+      ],
+      "departments": [
+        "https://www.iiitb.ac.in",
+        "https://www.iiitb.ac.in/",
+        "https://www.iiitb.ac.in/centre-for-applied-sciences",
+        "https://www.iiitb.ac.in/courses/integrated-phd-phd-master-of-science-by-research"
+      ],
+      "expertise": [
+        "https://www.iiitb.ac.in/research/",
+        "https://www.iiitb.ac.in/centre-for-applied-sciences",
+        "https://www.iiitb.ac.in/courses/integrated-phd-phd-master-of-science-by-research"
+      ],
+      "researchAreas": [
+        "https://www.iiitb.ac.in/research/",
+        "https://www.iiitb.ac.in/centre-for-applied-sciences",
+        "https://www.iiitb.ac.in/courses/integrated-phd-phd-master-of-science-by-research"
+      ],
+      "activeLabs": [
+        "https://www.iiitb.ac.in/research/",
+        "https://www.iiitb.ac.in/centre-for-applied-sciences"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "International Institute of Information Technology Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "departments": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Computer Science",
+      "Civil Engineering",
+      "Data Science",
+      "Physics",
+      "Chemistry",
+      "Environmental Engineering",
+      "Mathematics"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Robotics",
+      "Embedded Systems",
+      "Signal Processing"
+    ],
+    "researchAreas": [
+      "Machine Learning",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Robotics",
+      "Signal Processing",
+      "Bioinformatics"
+    ],
+    "activeLabs": [
+      "Robotics Research Center",
+      "Language Technologies Research Centre",
+      "Product Lab"
+    ],
+    "nirfRank": 38,
+    "nirfCategory": "Engineering",
+    "type": "Deemed University",
+    "portalUrl": "https://www.iiit.ac.in",
+    "contactEmail": "alumniawards@iiit.ac.in",
+    "researchCenters": [
+      "Robotics Research Center",
+      "Language Technologies Research Centre",
+      "Product Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.iiit.ac.in",
+      "https://www.iiit.ac.in/research/",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.iiit.ac.in/",
+      "https://www.iiit.ac.in/achievements/",
+      "https://www.iiit.ac.in/alumni-awards/",
+      "https://www.iiit.ac.in/academic-programmes/",
+      "https://www.iiit.ac.in/undergraduate/",
+      "https://www.iiit.ac.in/postgraduate-programmes/",
+      "https://www.iiit.ac.in/academic-calendar/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.iiit.ac.in"
+      ],
+      "type": [
+        "https://www.iiit.ac.in"
+      ],
+      "departments": [
+        "https://www.iiit.ac.in",
+        "https://www.iiit.ac.in/achievements/",
+        "https://www.iiit.ac.in/academic-programmes/"
+      ],
+      "expertise": [
+        "https://www.iiit.ac.in/research/",
+        "https://www.iiit.ac.in/undergraduate/"
+      ],
+      "researchAreas": [
+        "https://www.iiit.ac.in/research/",
+        "https://www.iiit.ac.in/undergraduate/",
+        "https://www.iiit.ac.in/postgraduate-programmes/"
+      ],
+      "activeLabs": [
+        "https://www.iiit.ac.in/research/",
+        "https://www.iiit.ac.in/undergraduate/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Malaviya National Institute of Technology Jaipur",
+    "location": "Jaipur, Rajasthan",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Materials Engineering",
+      "Biotechnology",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Cyber Security"
+    ],
+    "researchAreas": [],
+    "activeLabs": [
+      "Environment Materials Research Centre"
+    ],
+    "nirfRank": 42,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.mnit.ac.in",
+    "contactEmail": null,
+    "researchCenters": [
+      "Environment Materials Research Centre"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.mnit.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.mnit.ac.in/",
+      "https://www.mnit.ac.in/students/virtualtour",
+      "https://www.mnit.ac.in/admin/bog",
+      "https://www.mnit.ac.in/admin/heads",
+      "https://www.mnit.ac.in/admin/grc",
+      "https://www.mnit.ac.in/admin/transferorders",
+      "https://www.mnit.ac.in/students/scholarship"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.mnit.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.mnit.ac.in",
+        "https://www.mnit.ac.in/"
+      ],
+      "expertise": [
+        "https://www.mnit.ac.in/admin/transferorders"
+      ],
+      "researchAreas": [],
+      "activeLabs": [
+        "https://www.mnit.ac.in/admin/transferorders"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Maulana Azad National Institute of Technology Bhopal",
+    "location": "Bhopal, Madhya Pradesh",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 81,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.manit.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.manit.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.manit.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.manit.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Motilal Nehru National Institute of Technology Allahabad",
+    "location": "Prayagraj, Uttar Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Biotechnology",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Materials Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 62,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.mnnit.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.mnnit.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.mnnit.ac.in/",
+      "https://www.mnnit.ac.in/index.php/institute/administration/hod",
+      "https://www.mnnit.ac.in/index.php/academic/senate/minutes",
+      "https://www.mnnit.ac.in/index.php/academic/ug-program",
+      "https://www.mnnit.ac.in/index.php/academic/pg-program",
+      "https://www.mnnit.ac.in/index.php/academic/documents",
+      "https://www.mnnit.ac.in/index.php/department/engineering/am"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.mnnit.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.mnnit.ac.in",
+        "https://www.mnnit.ac.in/",
+        "https://www.mnnit.ac.in/index.php/academic/ug-program"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Ahmedabad",
+    "location": "Ahmedabad, Gujarat",
+    "departments": [
+      "Pharmaceutical Sciences"
+    ],
+    "expertise": [
+      "Pharmaceutical Technology",
+      "Drug Discovery"
+    ],
+    "researchAreas": [
+      "Pharmaceutical Technology"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.niperahm.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.niperahm.ac.in",
+      "https://www.niperahm.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.niperahm.ac.in"
+      ],
+      "type": [
+        "https://www.niperahm.ac.in"
+      ],
+      "departments": [
+        "https://www.niperahm.ac.in"
+      ],
+      "expertise": [
+        "https://www.niperahm.ac.in/"
+      ],
+      "researchAreas": [
+        "https://www.niperahm.ac.in/"
+      ],
+      "activeLabs": [
+        "https://www.niperahm.ac.in/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Guwahati",
+    "location": "Guwahati, Assam",
+    "departments": [
+      "Pharmaceutical Sciences",
+      "Biotechnology",
+      "Chemistry",
+      "Biological Sciences"
+    ],
+    "expertise": [
+      "Pharmaceutical Technology",
+      "Biotechnology"
+    ],
+    "researchAreas": [
+      "Pharmaceutical Technology"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://niperguwahati.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://niperguwahati.ac.in",
+      "https://niperguwahati.ac.in/",
+      "https://niperguwahati.ac.in/permanent_recruitment.html",
+      "https://niperguwahati.ac.in/pc.html",
+      "https://niperguwahati.ac.in/bt.html",
+      "https://niperguwahati.ac.in/pp.html",
+      "https://niperguwahati.ac.in/pe.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://niperguwahati.ac.in"
+      ],
+      "type": [
+        "https://niperguwahati.ac.in"
+      ],
+      "departments": [
+        "https://niperguwahati.ac.in",
+        "https://niperguwahati.ac.in/",
+        "https://niperguwahati.ac.in/bt.html"
+      ],
+      "expertise": [
+        "https://niperguwahati.ac.in/"
+      ],
+      "researchAreas": [
+        "https://niperguwahati.ac.in/"
+      ],
+      "activeLabs": [
+        "https://niperguwahati.ac.in/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Hajipur",
+    "location": "Hajipur, Bihar",
+    "departments": [
+      "Pharmaceutical Sciences",
+      "Biotechnology",
+      "Chemical Engineering"
+    ],
+    "expertise": [
+      "Pharmaceutical Technology",
+      "Biotechnology"
+    ],
+    "researchAreas": [
+      "Pharmaceutical Technology"
+    ],
+    "activeLabs": [
+      "Senate Finance Committee Institutional Bodies Laboratory",
+      "Governors Director Senate Finance Committee Laboratory",
+      "Laboratory",
+      "Excellence Recruitment Laboratory",
+      "LSBWC) Home Laboratory"
+    ],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.niperhajipur.ac.in",
+    "contactEmail": null,
+    "researchCenters": [
+      "Senate Finance Committee Institutional Bodies Laboratory",
+      "Governors Director Senate Finance Committee Laboratory",
+      "Laboratory",
+      "Excellence Recruitment Laboratory",
+      "LSBWC) Home Laboratory"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.niperhajipur.ac.in",
+      "https://www.niperhajipur.ac.in/",
+      "https://niperhajipur.ac.in/",
+      "https://niperhajipur.ac.in/board-of-governors/",
+      "https://niperhajipur.ac.in/laboratory-services-building-and-works-committee/",
+      "https://niperhajipur.ac.in/academic-planning-and-development-committee/",
+      "https://niperhajipur.ac.in/institutional-research-advisory-committee/",
+      "https://niperhajipur.ac.in/director-grievance-officer-for-centralized-public/",
+      "https://niperhajipur.ac.in/grievance-redressal-committee/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.niperhajipur.ac.in"
+      ],
+      "type": [
+        "https://www.niperhajipur.ac.in"
+      ],
+      "departments": [
+        "https://www.niperhajipur.ac.in",
+        "https://niperhajipur.ac.in/",
+        "https://niperhajipur.ac.in/academic-planning-and-development-committee/"
+      ],
+      "expertise": [
+        "https://www.niperhajipur.ac.in/",
+        "https://niperhajipur.ac.in/board-of-governors/"
+      ],
+      "researchAreas": [
+        "https://www.niperhajipur.ac.in/"
+      ],
+      "activeLabs": [
+        "https://www.niperhajipur.ac.in/",
+        "https://niperhajipur.ac.in/board-of-governors/",
+        "https://niperhajipur.ac.in/laboratory-services-building-and-works-committee/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "departments": [
+      "Pharmaceutical Sciences",
+      "Chemistry",
+      "Biological Sciences"
+    ],
+    "expertise": [
+      "Pharmaceutical Technology",
+      "Biotechnology"
+    ],
+    "researchAreas": [
+      "Pharmaceutical Technology"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.niperhyd.ac.in",
+    "contactEmail": "info.niperhyd@gov.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.niperhyd.ac.in",
+      "https://www.niperhyd.ac.in/",
+      "https://www.niperhyd.ac.in/Facilities_NIPER_Hyderabad.html",
+      "https://www.niperhyd.ac.in/Awards_of_NIPER_Hyderabad.html",
+      "https://www.niperhyd.ac.in/Associate_Dean_Academics_NIPER_Hyderabad.html",
+      "https://www.niperhyd.ac.in/Associate_Dean_NIPER_Hyderabad.html",
+      "https://www.niperhyd.ac.in/HoDs_NIPER_Hyderabad.html",
+      "https://www.niperhyd.ac.in/BoG_of_NIPER_Hyderabad.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.niperhyd.ac.in"
+      ],
+      "type": [
+        "https://www.niperhyd.ac.in"
+      ],
+      "departments": [
+        "https://www.niperhyd.ac.in",
+        "https://www.niperhyd.ac.in/"
+      ],
+      "expertise": [
+        "https://www.niperhyd.ac.in/"
+      ],
+      "researchAreas": [
+        "https://www.niperhyd.ac.in/"
+      ],
+      "activeLabs": [
+        "https://www.niperhyd.ac.in/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Kolkata",
+    "location": "Kolkata, West Bengal",
+    "departments": [
+      "Pharmaceutical Sciences",
+      "Biotechnology",
+      "Chemistry",
+      "Biological Sciences"
+    ],
+    "expertise": [
+      "Pharmaceutical Technology",
+      "Drug Discovery"
+    ],
+    "researchAreas": [
+      "Pharmaceutical Technology"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.niperkolkata.edu.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.niperkolkata.edu.in",
+      "https://www.niperkolkata.edu.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.niperkolkata.edu.in"
+      ],
+      "type": [
+        "https://www.niperkolkata.edu.in"
+      ],
+      "departments": [
+        "https://www.niperkolkata.edu.in",
+        "https://www.niperkolkata.edu.in/"
+      ],
+      "expertise": [
+        "https://www.niperkolkata.edu.in/"
+      ],
+      "researchAreas": [
+        "https://www.niperkolkata.edu.in/"
+      ],
+      "activeLabs": [
+        "https://www.niperkolkata.edu.in/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Mohali",
+    "location": "S.A.S. Nagar, Punjab",
+    "departments": [
+      "Pharmaceutical Sciences"
+    ],
+    "expertise": [
+      "Drug Discovery",
+      "Pharmaceutical Technology",
+      "Biotechnology"
+    ],
+    "researchAreas": [
+      "Drug Discovery",
+      "Pharmaceutical Technology"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://niper.gov.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://niper.gov.in",
+      "https://niper.gov.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://niper.gov.in"
+      ],
+      "type": [
+        "https://niper.gov.in"
+      ],
+      "departments": [
+        "https://niper.gov.in"
+      ],
+      "expertise": [
+        "https://niper.gov.in/"
+      ],
+      "researchAreas": [
+        "https://niper.gov.in/"
+      ],
+      "activeLabs": [
+        "https://niper.gov.in/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Raebareli",
+    "location": "Raebareli, Uttar Pradesh",
+    "departments": [
+      "Pharmaceutical Sciences",
+      "Biotechnology",
+      "Chemistry",
+      "Biological Sciences"
+    ],
+    "expertise": [
+      "Pharmaceutical Technology"
+    ],
+    "researchAreas": [
+      "Pharmaceutical Technology"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://niperraebareli.edu.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://niperraebareli.edu.in",
+      "https://niperraebareli.edu.in/",
+      "https://niperraebareli.edu.in/IACell.html",
+      "https://niperraebareli.edu.in/coe.html",
+      "https://niperraebareli.edu.in/vision.html",
+      "https://niperraebareli.edu.in/iic.html",
+      "https://niperraebareli.edu.in/DOC/IPR%20Guidelines.pdf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://niperraebareli.edu.in"
+      ],
+      "type": [
+        "https://niperraebareli.edu.in"
+      ],
+      "departments": [
+        "https://niperraebareli.edu.in",
+        "https://niperraebareli.edu.in/",
+        "https://niperraebareli.edu.in/IACell.html",
+        "https://niperraebareli.edu.in/coe.html"
+      ],
+      "expertise": [
+        "https://niperraebareli.edu.in/"
+      ],
+      "researchAreas": [
+        "https://niperraebareli.edu.in/"
+      ],
+      "activeLabs": [
+        "https://niperraebareli.edu.in/"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Science Education and Research Bhubaneswar",
+    "location": "Bhubaneswar, Odisha",
+    "departments": [
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Mathematical Sciences",
+      "Computer Science"
+    ],
+    "expertise": [
+      "High Energy Physics",
+      "Materials Science",
+      "Chemical Sciences",
+      "Biological Sciences"
+    ],
+    "researchAreas": [
+      "High Energy Physics",
+      "Materials Science"
+    ],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Autonomous Institute",
+    "portalUrl": "https://www.niser.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.niser.ac.in",
+      "https://www.niser.ac.in/research.php",
+      "https://www.niser.ac.in/",
+      "https://www.niser.ac.in/login",
+      "https://www.niser.ac.in/about/contacts",
+      "https://www.niser.ac.in/cmrp/",
+      "https://www.niser.ac.in/people/disciples/mr",
+      "https://www.niser.ac.in/people/alumni/mr"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.niser.ac.in"
+      ],
+      "type": [
+        "https://www.niser.ac.in"
+      ],
+      "departments": [
+        "https://www.niser.ac.in",
+        "https://www.niser.ac.in/"
+      ],
+      "expertise": [
+        "https://www.niser.ac.in/research.php"
+      ],
+      "researchAreas": [
+        "https://www.niser.ac.in/research.php"
+      ],
+      "activeLabs": [
+        "https://www.niser.ac.in/research.php"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Agartala",
+    "location": "Agartala, Tripura",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.nita.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.nita.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nita.ac.in/",
+      "https://www.nita.ac.in/UserPanel/DisplayPage.aspx",
+      "https://www.nita.ac.in/AcademicCalendar-Odd2026-Revised.pdf",
+      "https://www.nita.ac.in/ErrorPage/ErrorPage.html?aspxerrorpath=/Department/Deptindex.aspx",
+      "https://www.nita.ac.in/Verification-AcademicCredentials-Aug2026.pdf",
+      "https://www.nita.ac.in/SOP_Modified_Nov2024.pdf",
+      "https://www.nita.ac.in/OM_AlumniAward_Jan2026.pdf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.nita.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.nita.ac.in",
+        "https://www.nita.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Andhra Pradesh",
+    "location": "Tadepalligudem, Andhra Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Materials Engineering",
+      "Biotechnology",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitandhra.ac.in",
+    "contactEmail": "administration@nitandhra.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitandhra.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://nitandhra.ac.in/main/",
+      "https://nitandhra.ac.in/main/contact.php",
+      "https://nitandhra.ac.in/main/convocation.php",
+      "https://nitandhra.ac.in/main/bog.php",
+      "https://nitandhra.ac.in/main/cvo.php",
+      "https://nitandhra.ac.in/main/ms.php",
+      "https://nitandhra.ac.in/main/formerprincipals.php"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitandhra.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitandhra.ac.in",
+        "https://nitandhra.ac.in/main/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Arunachal Pradesh",
+    "location": "Yupia, Arunachal Pradesh",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.nitap.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.nitap.ac.in",
+      "https://www.education.gov.in/en/node/2545"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.nitap.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.nitap.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Calicut",
+    "location": "Kozhikode, Kerala",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [
+      "Artificial Intelligence",
+      "Materials Science"
+    ],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 21,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitc.ac.in",
+    "contactEmail": "director@nitc.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitc.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://nitc.ac.in/",
+      "https://nitc.ac.in/departments",
+      "https://nitc.ac.in/multidiscilplinary-centres",
+      "https://nitc.ac.in/thematic-centres/advanced-manufacturing-centre",
+      "https://nitc.ac.in/multidiscilplinary-centres/centre-for-public-relations-information-and-media-exchange-c-prime",
+      "https://nitc.ac.in/board-of-governers",
+      "https://nitc.ac.in/heads-of-departments-schools"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitc.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitc.ac.in",
+        "https://nitc.ac.in/"
+      ],
+      "expertise": [
+        "https://nitc.ac.in/multidiscilplinary-centres"
+      ],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Delhi",
+    "location": "Delhi, Delhi",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Aerospace Engineering",
+      "Data Science",
+      "Mathematics"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 65,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitdelhi.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitdelhi.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://nitdelhi.ac.in/",
+      "https://nitdelhi.ac.in/institute/about/nit",
+      "https://nitdelhi.ac.in/institute/about/mission",
+      "https://nitdelhi.ac.in/institute/about/previous-directors",
+      "https://nitdelhi.ac.in/institute/leadership/director-profile",
+      "https://nitdelhi.ac.in/institute/leadership/director-message"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitdelhi.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitdelhi.ac.in",
+        "https://nitdelhi.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Durgapur",
+    "location": "Durgapur, West Bengal",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Materials Engineering",
+      "Biotechnology",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 49,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitdgp.ac.in",
+    "contactEmail": "ar.ps@nitdgp.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitdgp.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://nitdgp.ac.in/",
+      "https://nitdgp.ac.in/pg/",
+      "https://nitdgp.ac.in/p/18th-convocation-recorded-video",
+      "https://nitdgp.ac.in/p/contact",
+      "https://nitdgp.ac.in/uploads/722da6c425054712810772a0def5625e.pdf",
+      "https://nitdgp.ac.in/uploads/409b0f2195d120c883c07ccafd2e97bc.pdf",
+      "https://nitdgp.ac.in/uploads/42434f49ae90faa1f54e5252ef645ff7.pdf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitdgp.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitdgp.ac.in",
+        "https://nitdgp.ac.in/p/contact"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Goa",
+    "location": "Ponda, Goa",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Mathematics",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.nitgoa.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.nitgoa.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nitgoa.ac.in/",
+      "https://www.nitgoa.ac.in/administration/Board_of_Governors.html",
+      "https://www.nitgoa.ac.in/administration/hod.html",
+      "https://www.nitgoa.ac.in/academics/academic_calendar.html",
+      "https://www.nitgoa.ac.in/academics/rules_and_regulations.html",
+      "https://www.nitgoa.ac.in/academics/DissertionFormat.html",
+      "https://www.nitgoa.ac.in/academics/departments.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.nitgoa.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.nitgoa.ac.in",
+        "https://www.nitgoa.ac.in/",
+        "https://www.nitgoa.ac.in/administration/Board_of_Governors.html"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Hamirpur",
+    "location": "Hamirpur, Himachal Pradesh",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Environmental Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 97,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nith.ac.in",
+    "contactEmail": "nath@nith.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nith.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://nith.ac.in/",
+      "https://nith.ac.in/contact-us",
+      "https://nith.ac.in/login",
+      "https://nith.ac.in/institute-coordinator",
+      "https://nith.ac.in/former-directorsprincipals",
+      "https://nith.ac.in/head-of-departments",
+      "https://nith.ac.in/Departments/topic/130"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nith.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nith.ac.in",
+        "https://nith.ac.in/",
+        "https://nith.ac.in/Departments/topic/130"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Jamshedpur",
+    "location": "Jamshedpur, Jharkhand",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 82,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitjsr.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitjsr.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://nitjsr.ac.in/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitjsr.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitjsr.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Karnataka, Surathkal",
+    "location": "Surathkal, Karnataka",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Materials Engineering",
+      "Data Science",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 17,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.nitk.ac.in",
+    "contactEmail": "akshayrevankar@nitk.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.nitk.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.nitk.ac.in/",
+      "https://www.nitk.ac.in/awards--recognitions",
+      "https://www.nitk.ac.in/Former_Directors",
+      "https://www.nitk.ac.in/contact-us",
+      "https://www.nitk.ac.in/board_of_governors",
+      "https://www.nitk.ac.in/HoD_HoS",
+      "https://www.nitk.ac.in/academicoffice"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.nitk.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.nitk.ac.in",
+        "https://www.nitk.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Kurukshetra",
+    "location": "Kurukshetra, Haryana",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 85,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitkkr.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitkkr.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitkkr.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitkkr.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Manipur",
+    "location": "Imphal, Manipur",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.nitmanipur.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.nitmanipur.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://nitmanipur.ac.in/",
+      "https://nitmanipur.ac.in/ErrorPage/ErrorPage.html?aspxerrorpath=/DisplayPage.aspx",
+      "https://nitmanipur.ac.in/Student_Identity_Card_Form_001.pdf",
+      "https://nitmanipur.ac.in/NIT_MANIPUR_HOSTEL_Rules_Regulations_2026-July_Session_onwards.pdf",
+      "https://nitmanipur.ac.in/PhotoGalleryDynamic.aspx",
+      "https://nitmanipur.ac.in/304-Admission-offline-mode.pdf",
+      "https://nitmanipur.ac.in/Project-Staff-Advt-R-2058.pdf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.nitmanipur.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.nitmanipur.ac.in",
+        "https://nitmanipur.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Meghalaya",
+    "location": "Shillong, Meghalaya",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biological Sciences",
+      "Data Science"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 83,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitm.ac.in",
+    "contactEmail": "registrar@nitm.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitm.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://nitm.ac.in/",
+      "https://nitm.ac.in/page_gallery.php",
+      "https://nitm.ac.in/campus_tour.php",
+      "https://nitm.ac.in/page_contacts.php"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitm.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitm.ac.in",
+        "https://nitm.ac.in/",
+        "https://nitm.ac.in/page_gallery.php"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Mizoram",
+    "location": "Aizawl, Mizoram",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Data Science"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitmz.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitmz.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://nitmz.ac.in/",
+      "https://nitmz.ac.in/contact/",
+      "https://nitmz.ac.in/administration/board-of-governors/",
+      "https://nitmz.ac.in/academics/academic-curricula/",
+      "https://nitmz.ac.in/academics/programmes/",
+      "https://nitmz.ac.in/academics/library/",
+      "https://nitmz.ac.in/academics/fee-structure/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitmz.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitmz.ac.in",
+        "https://nitmz.ac.in/",
+        "https://nitmz.ac.in/academics/programmes/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Nagaland",
+    "location": "Chumoukedima, Nagaland",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitnagaland.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitnagaland.ac.in",
+      "https://www.education.gov.in/en/node/2545"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitnagaland.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitnagaland.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Patna",
+    "location": "Patna, Bihar",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Materials Engineering",
+      "Mathematics",
+      "Physics"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 53,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitp.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitp.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://nitp.ac.in/",
+      "https://nitp.ac.in/Academic/Intranet",
+      "https://nitp.ac.in/Institute",
+      "https://nitp.ac.in/Others/NITAct",
+      "https://nitp.ac.in/Others/Report",
+      "https://nitp.ac.in/Others/NIRF"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitp.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitp.ac.in",
+        "https://nitp.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Puducherry",
+    "location": "Karaikal, Puducherry",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 99,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitpy.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitpy.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitpy.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitpy.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Raipur",
+    "location": "Raipur, Chhattisgarh",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 86,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitrr.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitrr.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitrr.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitrr.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Rourkela",
+    "location": "Rourkela, Odisha",
+    "departments": [
+      "Computer Science and Engineering",
+      "Biotechnology",
+      "Mathematics",
+      "Physics",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics and Communication Engineering"
+    ],
+    "expertise": [
+      "Computer Vision",
+      "Robotics",
+      "Renewable Energy"
+    ],
+    "researchAreas": [
+      "Bioinformatics"
+    ],
+    "activeLabs": [
+      "Robotics Nanomaterials Poverty Alleviation Research Centre",
+      "Space Technology Incubation Center Steel Research Centre"
+    ],
+    "nirfRank": 13,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitrkl.ac.in",
+    "contactEmail": "registrar@nitrkl.ac.in",
+    "researchCenters": [
+      "Robotics Nanomaterials Poverty Alleviation Research Centre",
+      "Space Technology Incubation Center Steel Research Centre"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitrkl.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.nitrkl.ac.in/",
+      "https://www.nitrkl.ac.in/Academic/Admission/",
+      "https://www.nitrkl.ac.in/Institute/FormerDirectors/",
+      "https://www.nitrkl.ac.in/Institute/CampusFacility/",
+      "https://www.nitrkl.ac.in/Institute/ContactUs/",
+      "https://www.nitrkl.ac.in/Institute/BOG/",
+      "https://www.nitrkl.ac.in/Institute/NITRDirector/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitrkl.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitrkl.ac.in",
+        "https://www.nitrkl.ac.in/",
+        "https://www.nitrkl.ac.in/Institute/FormerDirectors/",
+        "https://www.nitrkl.ac.in/Institute/BOG/"
+      ],
+      "expertise": [
+        "https://www.nitrkl.ac.in/Institute/FormerDirectors/"
+      ],
+      "researchAreas": [
+        "https://www.nitrkl.ac.in/Institute/FormerDirectors/"
+      ],
+      "activeLabs": [
+        "https://www.nitrkl.ac.in/Institute/FormerDirectors/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Sikkim",
+    "location": "Ravangla, Sikkim",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [
+      "Internet of Things"
+    ],
+    "researchAreas": [
+      "Water Quality",
+      "Semiconductor Devices"
+    ],
+    "activeLabs": [
+      "Establishing Research Laboratories Using C-DAC Lab"
+    ],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitsikkim.ac.in",
+    "contactEmail": "info@nitsikkim.ac.in",
+    "researchCenters": [
+      "Establishing Research Laboratories Using C-DAC Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitsikkim.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://nitsikkim.ac.in/",
+      "https://nitsikkim.ac.in/students/academicCalendar.php",
+      "https://nitsikkim.ac.in/footer/contact.php",
+      "https://nitsikkim.ac.in/institute/administration/boardOfGovernors.php",
+      "https://nitsikkim.ac.in/institute/administration/Offices_Sections.php",
+      "https://nitsikkim.ac.in/researches/facilities/facilties.php",
+      "https://nitsikkim.ac.in/researches/projects.php"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitsikkim.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitsikkim.ac.in",
+        "https://nitsikkim.ac.in/"
+      ],
+      "expertise": [
+        "https://nitsikkim.ac.in/researches/projects.php"
+      ],
+      "researchAreas": [
+        "https://nitsikkim.ac.in/researches/projects.php"
+      ],
+      "activeLabs": [
+        "https://nitsikkim.ac.in/researches/projects.php"
+      ],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Silchar",
+    "location": "Silchar, Assam",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Electronics and Communication Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 50,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.nits.ac.in",
+    "contactEmail": "director@nits.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.nits.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.nits.ac.in/",
+      "https://www.nits.ac.in/about-nits/list-of-directors",
+      "https://www.nits.ac.in/Administration/warden",
+      "https://www.nits.ac.in/the-organization/board-of-governors",
+      "https://www.nits.ac.in/campus-life/campus-facilities",
+      "https://www.nits.ac.in/campus-life/health-centre",
+      "https://www.nits.ac.in/academic/academic-section"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.nits.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.nits.ac.in",
+        "https://www.nits.ac.in/",
+        "https://www.nits.ac.in/academic/academic-section"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Srinagar",
+    "location": "Srinagar, Jammu and Kashmir",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 73,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitsri.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitsri.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://nitsri.ac.in/",
+      "https://nitsri.ac.in/Pages/BOG.aspx",
+      "https://nitsri.ac.in/Pages/DisplayPages.aspx",
+      "https://nitsri.ac.in/Department/Deptindex.aspx",
+      "https://nitsri.ac.in/404error.aspx",
+      "https://nitsri.ac.in/Centre/Deptindex.aspx",
+      "https://nitsri.ac.in/uploaded_files/VariousProgrames.pdf"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitsri.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitsri.ac.in",
+        "https://nitsri.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Tiruchirappalli",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 9,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.nitt.edu",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.nitt.edu",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.nitt.edu",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.nitt.edu"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "National Institute of Technology Uttarakhand",
+    "location": "Srinagar, Uttarakhand",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Chemical Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": null,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nituk.ac.in",
+    "contactEmail": "nituttarakhand@nituk.ac.in",
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nituk.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://nituk.ac.in/",
+      "https://nituk.ac.in/bis-dashboard",
+      "https://nituk.ac.in/board-of-governers",
+      "https://nituk.ac.in/ordinance",
+      "https://nituk.ac.in/academic-calendar",
+      "https://nituk.ac.in/academic-section-officials"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nituk.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nituk.ac.in",
+        "https://nituk.ac.in/",
+        "https://nituk.ac.in/bis-dashboard"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": []
+    }
+  },
+  {
+    "name": "National Institute of Technology Warangal",
+    "location": "Warangal, Telangana",
+    "departments": [
+      "Computer Science and Engineering"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 28,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://nitw.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://nitw.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://nitw.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://nitw.ac.in"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Rajiv Gandhi Institute of Petroleum Technology",
+    "location": "Amethi, Uttar Pradesh",
+    "departments": [
+      "Petroleum Engineering",
+      "Chemical Engineering",
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Mechanical Engineering",
+      "Mathematics"
+    ],
+    "expertise": [
+      "Petroleum Engineering",
+      "Energy Engineering",
+      "Chemical Engineering"
+    ],
+    "researchAreas": [
+      "Petroleum Exploration",
+      "Refining and Petrochemicals",
+      "Energy Systems"
+    ],
+    "activeLabs": [
+      "Central Instrumentation Facilities Consultancy Specialized Research Center",
+      "Projects High-Tech Patents Publications Research Lab"
+    ],
+    "nirfRank": 78,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.rgipt.ac.in",
+    "contactEmail": "registrar@rgipt.ac.in",
+    "researchCenters": [
+      "Central Instrumentation Facilities Consultancy Specialized Research Center",
+      "Projects High-Tech Patents Publications Research Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.rgipt.ac.in",
+      "https://www.rgipt.ac.in/",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.rgipt.ac.in/en/post/contact-us",
+      "https://www.rgipt.ac.in/en/post/reach-us",
+      "https://www.rgipt.ac.in/en/page/board-of-governors-",
+      "https://www.rgipt.ac.in/en/page/former-directors",
+      "https://www.rgipt.ac.in/en/page/ordinances"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.rgipt.ac.in"
+      ],
+      "type": [
+        "https://www.rgipt.ac.in"
+      ],
+      "departments": [
+        "https://www.rgipt.ac.in",
+        "https://www.rgipt.ac.in/"
+      ],
+      "expertise": [
+        "https://www.rgipt.ac.in/"
+      ],
+      "researchAreas": [
+        "https://www.rgipt.ac.in/"
+      ],
+      "activeLabs": [
+        "https://www.rgipt.ac.in/",
+        "https://www.rgipt.ac.in/en/page/board-of-governors-"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Sardar Vallabhbhai National Institute of Technology Surat",
+    "location": "Surat, Gujarat",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Data Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "expertise": [],
+    "researchAreas": [],
+    "activeLabs": [],
+    "nirfRank": 66,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://www.svnit.ac.in",
+    "contactEmail": null,
+    "researchCenters": [],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://www.svnit.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://www.svnit.ac.in/",
+      "https://www.svnit.ac.in/index.php",
+      "https://www.svnit.ac.in/qlinks/acr_ug.pdf",
+      "https://www.svnit.ac.in/qlinks/Accreditation%20Report%20(2020)%20-%20Civil%20Engg%20&%20MechEngg.pdf",
+      "https://www.svnit.ac.in/web/bog.php",
+      "https://www.svnit.ac.in/web/chairperson-BoG.php",
+      "https://www.svnit.ac.in/web/hod.php"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://www.svnit.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://www.svnit.ac.in",
+        "https://www.svnit.ac.in/"
+      ],
+      "expertise": [],
+      "researchAreas": [],
+      "activeLabs": [],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  },
+  {
+    "name": "Visvesvaraya National Institute of Technology Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "departments": [
+      "Computer Science and Engineering",
+      "Computer Science",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Materials Engineering",
+      "Data Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Aerospace Engineering",
+      "Biotechnology",
+      "Environmental Engineering"
+    ],
+    "expertise": [
+      "Computer Vision",
+      "Robotics",
+      "Renewable Energy",
+      "Remote Sensing",
+      "Nanotechnology",
+      "Aerospace Engineering",
+      "Biotechnology",
+      "Environmental Engineering"
+    ],
+    "researchAreas": [
+      "Groundwater",
+      "Climate Change",
+      "Remote Sensing"
+    ],
+    "activeLabs": [
+      "Placement Hostels Sports Research Centre",
+      "Research Lab"
+    ],
+    "nirfRank": 44,
+    "nirfCategory": "Engineering",
+    "type": "Institute of National Importance",
+    "portalUrl": "https://vnit.ac.in",
+    "contactEmail": "director_office@vnit.ac.in",
+    "researchCenters": [
+      "Placement Hostels Sports Research Centre",
+      "Research Lab"
+    ],
+    "facultyExpertise": [],
+    "sourceUrls": [
+      "https://vnit.ac.in",
+      "https://www.education.gov.in/en/node/2545",
+      "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+      "https://vnit.ac.in/",
+      "https://vnit.ac.in/head-of-departments/",
+      "https://vnit.ac.in/bog-2026/",
+      "https://vnit.ac.in/institute-awards/",
+      "https://vnit.ac.in/contact-us/",
+      "https://vnit.ac.in/section/academics/academic-forms/",
+      "https://vnit.ac.in/basic_science/phy/"
+    ],
+    "lastVerified": "2026-09-07",
+    "fieldSources": {
+      "identity": [
+        "https://vnit.ac.in",
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "type": [
+        "https://www.education.gov.in/en/node/2545"
+      ],
+      "departments": [
+        "https://vnit.ac.in",
+        "https://vnit.ac.in/",
+        "https://vnit.ac.in/institute-awards/"
+      ],
+      "expertise": [
+        "https://vnit.ac.in/institute-awards/"
+      ],
+      "researchAreas": [
+        "https://vnit.ac.in/institute-awards/"
+      ],
+      "activeLabs": [
+        "https://vnit.ac.in/institute-awards/"
+      ],
+      "nirfRank": [
+        "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html"
+      ]
+    }
+  }
+]
